@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import openpyxl
 import os, re
-from datetime import date
+from datetime import date, timedelta
 import numpy as np
 
 # ── configuración de página ───────────────────────────────────────────────────
@@ -111,18 +111,44 @@ def load_sheet(filepath):
         }
     return data
 
-@st.cache_data(ttl=3600, show_spinner="Cargando datos...")
+@st.cache_data(ttl=300, show_spinner="Cargando datos...")
 def load_all():
     all_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".xlsx") and not f.startswith("~$")]
-    dated = {}
+
+    today_d = date.today()
+    current_week_mon = today_d - timedelta(days=today_d.weekday())
+
+    weekly   = {}     # {week_monday: (file_date, filename, is_mc)} — un archivo por semana
+    daily_now = None  # archivo más reciente no-lunes de la semana actual
+
     for f in all_files:
         d = parse_fecha(f)
         if d is None: continue
-        is_mc = "MC" in f.replace("Cosechas","").replace(".xlsx","")
-        if d not in dated:
-            dated[d] = (f, is_mc)
-        elif dated[d][1] and not is_mc:
-            dated[d] = (f, is_mc)
+        is_mc     = "MC" in f.replace("Cosechas","").replace(".xlsx","")
+        is_monday = (d.weekday() == 0)
+        week_mon  = d - timedelta(days=d.weekday())
+
+        # Representante semanal: lunes > no-lunes > más reciente > no-MC
+        if week_mon not in weekly:
+            weekly[week_mon] = (d, f, is_mc)
+        else:
+            cur, cur_is_mon = weekly[week_mon], (weekly[week_mon][0].weekday() == 0)
+            replace = False
+            if is_monday and not cur_is_mon:         replace = True
+            elif is_monday == cur_is_mon:
+                if d > cur[0]:                       replace = True
+                elif d == cur[0] and cur[2] and not is_mc: replace = True
+            if replace:
+                weekly[week_mon] = (d, f, is_mc)
+
+        # Columna "hoy": último no-lunes de la semana actual
+        if week_mon == current_week_mon and not is_monday:
+            if daily_now is None or d > daily_now[0]:
+                daily_now = (d, f, is_mc)
+
+    dated = {d: (f, mc) for _, (d, f, mc) in weekly.items()}
+    if daily_now is not None and daily_now[0] not in dated:
+        dated[daily_now[0]] = (daily_now[1], daily_now[2])
 
     ordered = sorted(dated.keys())
     all_data = {d: load_sheet(os.path.join(DATA_DIR, dated[d][0])) for d in ordered}
