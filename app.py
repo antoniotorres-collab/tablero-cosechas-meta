@@ -111,7 +111,7 @@ def load_sheet(filepath):
         }
     return data
 
-@st.cache_data(ttl=300, show_spinner="Cargando datos...")
+@st.cache_data(ttl=3600, persist="disk", show_spinner="Cargando datos...")
 def load_all():
     all_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".xlsx") and not f.startswith("~$")]
 
