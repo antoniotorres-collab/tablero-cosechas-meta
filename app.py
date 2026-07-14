@@ -128,11 +128,21 @@ def load_all():
 
         # Filtrar solo asesores activos según el corte más reciente
         base_date = df["fecha"].dt.date.max()
+        base_rows = df[df["fecha"].dt.date == base_date]
         activos_claves = set(
-            df.loc[(df["fecha"].dt.date == base_date) &
-                   (df["estatus"].str.lower() == "activo"), "clave"]
+            base_rows.loc[base_rows["estatus"].str.lower() == "activo", "clave"]
         )
         df = df[df["clave"].isin(activos_claves)].copy()
+
+        # Normalizar regional/sucursal al valor actual para evitar filas duplicadas
+        # en el pivot cuando un asesor cambió de regional a lo largo del tiempo
+        info_actual = (base_rows[base_rows["clave"].isin(activos_claves)]
+                       [["clave", "nombre", "regional", "sucursal"]]
+                       .drop_duplicates("clave")
+                       .set_index("clave"))
+        df["regional"] = df["clave"].map(info_actual["regional"])
+        df["sucursal"]  = df["clave"].map(info_actual["sucursal"])
+        df["nombre"]    = df["clave"].map(info_actual["nombre"])
 
         semanas_ordenadas = [col_label(d) for d in sorted(df["fecha"].dt.date.unique())]
         return df, semanas_ordenadas
