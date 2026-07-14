@@ -1,0 +1,2179 @@
+fecha,clave,nombre,regional,sucursal,cosecha,estatus
+2026-01-05,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9532364712835619,Activo
+2026-01-05,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9849507731932967,Activo
+2026-01-05,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.7020552292750514,Activo
+2026-01-05,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8380587376131828,Activo
+2026-01-05,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.6818275674109285,Activo
+2026-01-05,4437,ESTELA  CORTEZ  RAYGOZA,Bajio Occidente,Fresnillo,0.7323975823400037,Activo
+2026-01-05,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8558809632478299,Activo
+2026-01-05,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9938058231373741,Activo
+2026-01-05,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-05,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9999999999999998,Activo
+2026-01-05,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9530883413151605,Activo
+2026-01-05,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.9412314261561698,Activo
+2026-01-05,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-05,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9658284433248906,Activo
+2026-01-05,4941,BRENDA  SOLIS  LOZANO,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-05,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9807850227460586,Activo
+2026-01-05,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9688489568617955,Activo
+2026-01-05,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.8908918941025811,Activo
+2026-01-05,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.76808537406349,Activo
+2026-01-05,2026,J MERCED PRIETO ALVARADO,Bajio Occidente,Salamanca,0.8794011900956096,Activo
+2026-01-05,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Bajio Occidente,Salamanca,1.0,Activo
+2026-01-05,4248,HERMINIA  PEREZ CABRERA,Bajio Occidente,Salamanca,0.9743659702419531,Activo
+2026-01-05,4501,Elvia del Carmen Perez Hernandez,Bajio Occidente,Salamanca,0.9977346535082592,Activo
+2026-01-05,4637,Juan Manuel Ramirez Ochoa,Bajio Occidente,Salamanca,0.8053827145634869,Activo
+2026-01-05,4642,Alejandro Padilla Olivares,Bajio Occidente,Salamanca,0.9937414436043288,Activo
+2026-01-05,4643,Rita Magdalena López Zavala,Bajio Occidente,Salamanca,0.7973466975984445,Activo
+2026-01-05,4843,JUAN JOSE  MORALES  RODRIGUEZ,Bajio Occidente,Salamanca,1.0,Activo
+2026-01-05,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Bajio Occidente,Salamanca,0.9943586218323511,Activo
+2026-01-05,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9455183196002801,Activo
+2026-01-05,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9601515369989041,Activo
+2026-01-05,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8784421598576126,Activo
+2026-01-05,4725,Comodin San Juan del Río Unico,Centro,San Juan del Río,0.9794513098083847,Activo
+2026-01-05,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.8543657841077729,Activo
+2026-01-05,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9904298246159232,Activo
+2026-01-05,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,1.0,Activo
+2026-01-05,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9021700952238622,Activo
+2026-01-05,4256,DIANA IRERI CONTRERAS SOLÍS,Centro,Valle de Toluca,0.9573897053018504,Activo
+2026-01-05,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9670061151479393,Activo
+2026-01-05,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-01-05,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.9255958824853504,Activo
+2026-01-05,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-01-05,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activo
+2026-01-05,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.907841259154675,Activo
+2026-01-05,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8960077714094538,Activo
+2026-01-05,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.9053512393650827,Activo
+2026-01-05,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9013267490293494,Activo
+2026-01-05,4748,Comodin Zinacantepec Unico,Centro,Zinacantepec,1.0,Activo
+2026-01-05,4813,Eric Alvarez Ovando,Centro,Zinacantepec,1.0,Activo
+2026-01-05,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9028611652369589,Activo
+2026-01-05,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.9382586518851026,Activo
+2026-01-05,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-01-05,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8961383439630921,Activo
+2026-01-05,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9484949276580504,Activo
+2026-01-05,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9579551555033933,Activo
+2026-01-05,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9535730328782884,Activo
+2026-01-05,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9155392848985837,Activo
+2026-01-05,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8373940138656965,Activo
+2026-01-05,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9822340483329649,Activo
+2026-01-05,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8763096730921195,Activo
+2026-01-05,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9966730621091081,Activo
+2026-01-05,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9409929027701924,Activo
+2026-01-05,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8817211117041911,Activo
+2026-01-05,2722,gael alejandro medina ek,Península Sur,Motul,0.9964856243391698,Activo
+2026-01-05,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9999999999999999,Activo
+2026-01-05,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8841748699239003,Activo
+2026-01-05,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9250692508981136,Activo
+2026-01-05,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.8921888357206121,Activo
+2026-01-05,3963,ANGEL ANTONIO Lopez Yupit,Península Sur,Playa del Carmen,0.7660390974952106,Activo
+2026-01-05,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.899396975795258,Activo
+2026-01-05,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-01-05,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-01-05,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9808049813950813,Activo
+2026-01-05,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9056484804149241,Activo
+2026-01-05,4767,LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9600783830875632,Activo
+2026-01-05,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.9052068575105744,Activo
+2026-01-05,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,1.0,Activo
+2026-01-05,4778,Julio Efrain Rosales Villanueva,Suc Digital,Guadalajara,0.7479388808634535,Activo
+2026-01-05,4816,Gerardo Baeza  Castillo,Suc Digital,Guadalajara,0.9044888221100694,Activo
+2026-01-05,4846,Araceli Pineda Galicia,Suc Digital,Guadalajara,0.9621952496528421,Activo
+2026-01-05,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Suc Digital,Guadalajara,0.9612475253030317,Activo
+2026-01-05,4879,MARILYN  RODRIGUEZ  PUGA,Suc Digital,Mérida,0.8718386983475561,Activo
+2026-01-05,4938,HUSSEIN ESSAI  LEAL  MARTIN,Suc Digital,Mérida,1.0,Activo
+2026-01-05,4722,Nestor Zuñiga  García,Suc Digital,Tepeji del Rio,0.9546217097524835,Activo
+2026-01-05,4930,ADRIANA YADIRA  CASTILLO  ENRIQUEZ,Suc Digital,Tepeji del Rio,1.0,Activo
+2026-01-12,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9533541089885733,Activos
+2026-01-12,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9874113218976417,Activos
+2026-01-12,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.7514044168769116,Activos
+2026-01-12,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8532596761460917,Activos
+2026-01-12,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.59774377195855,Activos
+2026-01-12,4437,ESTELA  CORTEZ  RAYGOZA,Bajio Occidente,Fresnillo,0.7819730671176262,Activos
+2026-01-12,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8880845979215788,Activos
+2026-01-12,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9947308006728773,Activos
+2026-01-12,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,1.0000000000000002,Activos
+2026-01-12,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,1.0000000000000002,Activos
+2026-01-12,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9766546338834631,Activos
+2026-01-12,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.9388201130888228,Activos
+2026-01-12,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,1.0,Activos
+2026-01-12,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9280320782415605,Activos
+2026-01-12,4941,BRENDA  SOLIS  LOZANO,Bajio Occidente,Irapuato,1.0,Activos
+2026-01-12,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9918951873116305,Activos
+2026-01-12,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9773902017377516,Activos
+2026-01-12,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.871564288711817,Activos
+2026-01-12,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.7951544412391472,Activos
+2026-01-12,2026,J MERCED PRIETO ALVARADO,Bajio Occidente,Salamanca,0.8647062884775614,Activos
+2026-01-12,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Bajio Occidente,Salamanca,1.0,Activos
+2026-01-12,4248,HERMINIA  PEREZ CABRERA,Bajio Occidente,Salamanca,0.9718002627503134,Activos
+2026-01-12,4501,Elvia del Carmen Perez Hernandez,Bajio Occidente,Salamanca,0.9818574041294951,Activos
+2026-01-12,4637,Juan Manuel Ramirez Ochoa,Bajio Occidente,Salamanca,0.796336273148921,Activos
+2026-01-12,4642,Alejandro Padilla Olivares,Bajio Occidente,Salamanca,0.9937414436043288,Activos
+2026-01-12,4643,Rita Magdalena López Zavala,Bajio Occidente,Salamanca,0.8065347372937562,Activos
+2026-01-12,4843,JUAN JOSE  MORALES  RODRIGUEZ,Bajio Occidente,Salamanca,1.0,Activos
+2026-01-12,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Bajio Occidente,Salamanca,0.9941478724083871,Activos
+2026-01-12,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9471498437646814,Activos
+2026-01-12,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.932101929017145,Activos
+2026-01-12,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8808424300084806,Activos
+2026-01-12,4725,Comodin San Juan del Río Unico,Centro,San Juan del Río,0.9912539513803788,Activos
+2026-01-12,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.8545660166863313,Activos
+2026-01-12,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.978370461950202,Activos
+2026-01-12,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9925873374167145,Activos
+2026-01-12,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.905874033717804,Activos
+2026-01-12,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9479715645991162,Activos
+2026-01-12,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9999999999999999,Activos
+2026-01-12,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8944505550249892,Activos
+2026-01-12,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999997,Activos
+2026-01-12,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activos
+2026-01-12,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9526495353739762,Activos
+2026-01-12,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9090308969027838,Activos
+2026-01-12,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.9095113007720327,Activos
+2026-01-12,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9008367911826735,Activos
+2026-01-12,4748,Comodin Zinacantepec Unico,Centro,Zinacantepec,1.0,Activos
+2026-01-12,4813,Eric Alvarez Ovando,Centro,Zinacantepec,1.0,Activos
+2026-01-12,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9008708805804979,Activos
+2026-01-12,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.9028864609682514,Activos
+2026-01-12,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activos
+2026-01-12,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8946379057967139,Activos
+2026-01-12,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9487960109253692,Activos
+2026-01-12,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9329429475268919,Activos
+2026-01-12,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9539998122637371,Activos
+2026-01-12,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9155392848985837,Activos
+2026-01-12,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.840084010423173,Activos
+2026-01-12,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9808501200642766,Activos
+2026-01-12,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8763096730921195,Activos
+2026-01-12,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9937613060047852,Activos
+2026-01-12,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9405214561354112,Activos
+2026-01-12,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.9178346234780808,Activos
+2026-01-12,2722,gael alejandro medina ek,Península Sur,Motul,0.9868555123749441,Activos
+2026-01-12,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9999999999999999,Activos
+2026-01-12,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.9043295529708556,Activos
+2026-01-12,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.884870702173034,Activos
+2026-01-12,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9086829290697159,Activos
+2026-01-12,3963,ANGEL ANTONIO Lopez Yupit,Península Sur,Playa del Carmen,0.7741815475931305,Activos
+2026-01-12,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9155307202612863,Activos
+2026-01-12,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activos
+2026-01-12,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activos
+2026-01-12,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9846338418349441,Activos
+2026-01-12,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9056484804149241,Activos
+2026-01-12,4767,LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.964907167351077,Activos
+2026-01-12,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8877256803997243,Activos
+2026-01-12,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,1.0,Activos
+2026-01-12,4778,Julio Efrain Rosales Villanueva,Suc Digital,Guadalajara,0.7466457301213217,Activos
+2026-01-12,4816,Gerardo Baeza  Castillo,Suc Digital,Guadalajara,0.9044888221100695,Activos
+2026-01-12,4846,Araceli Pineda Galicia,Suc Digital,Guadalajara,0.9597560788861078,Activos
+2026-01-12,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Suc Digital,Guadalajara,0.9477264011910939,Activos
+2026-01-12,4879,MARILYN  RODRIGUEZ  PUGA,Suc Digital,Mérida,0.8497919962973585,Activos
+2026-01-12,4938,HUSSEIN ESSAI  LEAL  MARTIN,Suc Digital,Mérida,1.0,Activos
+2026-01-12,4722,Nestor Zuñiga  García,Suc Digital,Tepeji del Rio,0.9532082019743547,Activos
+2026-01-12,4930,ADRIANA YADIRA  CASTILLO  ENRIQUEZ,Suc Digital,Tepeji del Rio,1.0,Activos
+2026-01-19,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9539266124862952,Activo
+2026-01-19,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9851359066121668,Activo
+2026-01-19,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.8795608256873388,Activo
+2026-01-19,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8694521742678455,Activo
+2026-01-19,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9443382938253999,Activo
+2026-01-19,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8882641945185494,Activo
+2026-01-19,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9992544107779944,Activo
+2026-01-19,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-19,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,1.0000000000000002,Activo
+2026-01-19,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9774380238688541,Activo
+2026-01-19,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.8827956540338783,Activo
+2026-01-19,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-19,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9275388709247265,Activo
+2026-01-19,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9918951873116305,Activo
+2026-01-19,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9630388079844141,Activo
+2026-01-19,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.8503288269698509,Activo
+2026-01-19,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.8108846926247406,Activo
+2026-01-19,2026,J MERCED PRIETO ALVARADO,Bajio Occidente,Salamanca,0.8929921395759717,Activo
+2026-01-19,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Bajio Occidente,Salamanca,1.0,Activo
+2026-01-19,4248,HERMINIA  PEREZ CABRERA,Bajio Occidente,Salamanca,0.9741582392762074,Activo
+2026-01-19,4501,Elvia del Carmen Perez Hernandez,Bajio Occidente,Salamanca,0.9818408988944113,Activo
+2026-01-19,4637,Juan Manuel Ramirez Ochoa,Bajio Occidente,Salamanca,0.7970755129805072,Activo
+2026-01-19,4642,Alejandro Padilla Olivares,Bajio Occidente,Salamanca,0.9938122204135339,Activo
+2026-01-19,4643,Rita Magdalena López Zavala,Bajio Occidente,Salamanca,0.8479541585316441,Activo
+2026-01-19,4843,JUAN JOSE  MORALES  RODRIGUEZ,Bajio Occidente,Salamanca,1.0000000000000002,Activo
+2026-01-19,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Bajio Occidente,Salamanca,0.9946306621253719,Activo
+2026-01-19,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9457227564983908,Activo
+2026-01-19,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9220099524821711,Activo
+2026-01-19,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8553522234706069,Activo
+2026-01-19,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.8999070615702361,Activo
+2026-01-19,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9662548007342083,Activo
+2026-01-19,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9360233742836649,Activo
+2026-01-19,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9294345746688684,Activo
+2026-01-19,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9444213819550097,Activo
+2026-01-19,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,1.0,Activo
+2026-01-19,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8741280541695087,Activo
+2026-01-19,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-01-19,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-01-19,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9562521803435067,Activo
+2026-01-19,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.918004216029865,Activo
+2026-01-19,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.9069657510239901,Activo
+2026-01-19,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9011913826770602,Activo
+2026-01-19,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9999999999999998,Activo
+2026-01-19,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.904664272910516,Activo
+2026-01-19,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.9268170427124354,Activo
+2026-01-19,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-01-19,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.879634110853079,Activo
+2026-01-19,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9493474924674601,Activo
+2026-01-19,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9274555461796161,Activo
+2026-01-19,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9540631533500166,Activo
+2026-01-19,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9146012917648966,Activo
+2026-01-19,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.828070643648804,Activo
+2026-01-19,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.978668723144272,Activo
+2026-01-19,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8734627763456401,Activo
+2026-01-19,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9948281084416215,Activo
+2026-01-19,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9349994532141839,Activo
+2026-01-19,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.918615476313648,Activo
+2026-01-19,2722,gael alejandro medina ek,Península Sur,Motul,0.9883570404005398,Activo
+2026-01-19,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,1.0,Activo
+2026-01-19,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8834430822036446,Activo
+2026-01-19,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.8893924431476051,Activo
+2026-01-19,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9537535341067298,Activo
+2026-01-19,3963,ANGEL ANTONIO Lopez Yupit,Península Sur,Playa del Carmen,0.7723964397156764,Activo
+2026-01-19,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9224497460086303,Activo
+2026-01-19,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-01-19,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9842682891246977,Activo
+2026-01-19,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9056484804149241,Activo
+2026-01-19,4767,LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9832055270550257,Activo
+2026-01-19,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8901827723494985,Activo
+2026-01-19,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,1.0,Activo
+2026-01-19,4778,Julio Efrain Rosales Villanueva,Suc Digital,Guadalajara,0.7227419110397629,Activo
+2026-01-19,4816,Gerardo Baeza  Castillo,Suc Digital,Guadalajara,0.9044171330837497,Activo
+2026-01-19,4846,Araceli Pineda Galicia,Suc Digital,Guadalajara,0.953207885885924,Activo
+2026-01-19,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Suc Digital,Guadalajara,0.9494435555249816,Activo
+2026-01-19,4879,MARILYN  RODRIGUEZ  PUGA,Suc Digital,Mérida,0.8260499306002492,Activo
+2026-01-19,4938,HUSSEIN ESSAI  LEAL  MARTIN,Suc Digital,Mérida,1.0,Activo
+2026-01-19,4722,Nestor Zuñiga  García,Suc Digital,Tepeji del Rio,0.959054503760957,Activo
+2026-01-19,4930,ADRIANA YADIRA  CASTILLO  ENRIQUEZ,Suc Digital,Tepeji del Rio,1.0,Activo
+2026-01-26,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9524388436080072,Activo
+2026-01-26,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9910660121737586,Activo
+2026-01-26,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9196704509197416,Activo
+2026-01-26,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.867356255723784,Activo
+2026-01-26,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9656827214285179,Activo
+2026-01-26,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8842261994130005,Activo
+2026-01-26,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9973808922977654,Activo
+2026-01-26,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,1.0,Activo
+2026-01-26,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,1.0000000000000002,Activo
+2026-01-26,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9742791433142208,Activo
+2026-01-26,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.9073039114933098,Activo
+2026-01-26,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9959786370868341,Activo
+2026-01-26,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.931863702057156,Activo
+2026-01-26,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9920996008172817,Activo
+2026-01-26,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9705628873943343,Activo
+2026-01-26,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9035682918643104,Activo
+2026-01-26,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.7888052617846504,Activo
+2026-01-26,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-01-26,2026,J MERCED PRIETO ALVARADO,Bajio Occidente,Salamanca,0.9726752180138665,Activo
+2026-01-26,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Bajio Occidente,Salamanca,1.0,Activo
+2026-01-26,4248,HERMINIA  PEREZ CABRERA,Bajio Occidente,Salamanca,0.9763095434235354,Activo
+2026-01-26,4501,Elvia del Carmen Perez Hernandez,Bajio Occidente,Salamanca,0.9818897028717974,Activo
+2026-01-26,4637,Juan Manuel Ramirez Ochoa,Bajio Occidente,Salamanca,0.707486521399036,Activo
+2026-01-26,4642,Alejandro Padilla Olivares,Bajio Occidente,Salamanca,0.994041122865468,Activo
+2026-01-26,4643,Rita Magdalena López Zavala,Bajio Occidente,Salamanca,0.8486559480963795,Activo
+2026-01-26,4843,JUAN JOSE  MORALES  RODRIGUEZ,Bajio Occidente,Salamanca,1.0,Activo
+2026-01-26,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Bajio Occidente,Salamanca,0.9905292430572475,Activo
+2026-01-26,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9482777660276195,Activo
+2026-01-26,4942,ALEJANDRO  GUTIERREZ  GARCIA,Centro,Pachuca,1.0,Activo
+2026-01-26,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8998168584917661,Activo
+2026-01-26,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8573036660778655,Activo
+2026-01-26,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9197628723423874,Activo
+2026-01-26,4944,ViCTOR EDUARDO  ESCARTIN  SANCHEZ,Centro,San Juan del Río,1.0,Activo
+2026-01-26,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9683627053821718,Activo
+2026-01-26,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9311075781937532,Activo
+2026-01-26,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9021393993565939,Activo
+2026-01-26,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9234315857363582,Activo
+2026-01-26,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-01-26,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8085847752930377,Activo
+2026-01-26,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-01-26,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activo
+2026-01-26,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9240131263983284,Activo
+2026-01-26,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9105106636041982,Activo
+2026-01-26,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8935850837212045,Activo
+2026-01-26,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9359853772321806,Activo
+2026-01-26,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9999999999999998,Activo
+2026-01-26,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.897773232782437,Activo
+2026-01-26,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.9334088159739641,Activo
+2026-01-26,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-01-26,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8627706908651868,Activo
+2026-01-26,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9489377557171897,Activo
+2026-01-26,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9290659190798283,Activo
+2026-01-26,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.954409324264579,Activo
+2026-01-26,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9068915003647631,Activo
+2026-01-26,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8499902500551414,Activo
+2026-01-26,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9837078965393355,Activo
+2026-01-26,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8763096730921195,Activo
+2026-01-26,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9935249181572641,Activo
+2026-01-26,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9364458887550945,Activo
+2026-01-26,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.9158432212662461,Activo
+2026-01-26,2722,gael alejandro medina ek,Península Sur,Motul,0.9852956196358092,Activo
+2026-01-26,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9974683417690323,Activo
+2026-01-26,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8827380927234265,Activo
+2026-01-26,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.8905701910038188,Activo
+2026-01-26,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9523596612535213,Activo
+2026-01-26,3963,ANGEL ANTONIO Lopez Yupit,Península Sur,Playa del Carmen,0.7128009975682346,Activo
+2026-01-26,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9372232480632162,Activo
+2026-01-26,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-01-26,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-01-26,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9755391683708324,Activo
+2026-01-26,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9470690052212768,Activo
+2026-01-26,4767,LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9846139279536901,Activo
+2026-01-26,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.887920893027497,Activo
+2026-01-26,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,1.0,Activo
+2026-01-26,4778,Julio Efrain Rosales Villanueva,Suc Digital,Guadalajara,0.7311272536372668,Activo
+2026-01-26,4816,Gerardo Baeza  Castillo,Suc Digital,Guadalajara,0.9040117357726971,Activo
+2026-01-26,4846,Araceli Pineda Galicia,Suc Digital,Guadalajara,0.9536919015272369,Activo
+2026-01-26,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Suc Digital,Guadalajara,0.956126132207723,Activo
+2026-01-26,4879,MARILYN  RODRIGUEZ  PUGA,Suc Digital,Mérida,0.8235507706056383,Activo
+2026-01-26,4938,HUSSEIN ESSAI  LEAL  MARTIN,Suc Digital,Mérida,1.0,Activo
+2026-01-26,4722,Nestor Zuñiga  García,Suc Digital,Tepeji del Rio,0.9563291680998391,Activo
+2026-01-26,4930,ADRIANA YADIRA  CASTILLO  ENRIQUEZ,Suc Digital,Tepeji del Rio,1.0,Activo
+2026-02-09,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9554498857135376,Activo
+2026-02-09,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9935622336708378,Activo
+2026-02-09,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9196704509197416,Activo
+2026-02-09,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9102855359419985,Activo
+2026-02-09,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9899652619090713,Activo
+2026-02-09,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9151632524170505,Activo
+2026-02-09,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.7595560624345639,Activo
+2026-02-09,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.8883332316890057,Activo
+2026-02-09,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9477903159941612,Activo
+2026-02-09,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9576994100078395,Activo
+2026-02-09,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9963670843263254,Activo
+2026-02-09,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,1.0,Activo
+2026-02-09,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,1.0,Activo
+2026-02-09,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9745082435860856,Activo
+2026-02-09,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.8423053378740402,Activo
+2026-02-09,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9445891000906771,Activo
+2026-02-09,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9352301069516435,Activo
+2026-02-09,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9922314390541522,Activo
+2026-02-09,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9643769766319019,Activo
+2026-02-09,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9293165627873459,Activo
+2026-02-09,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.7933216378285944,Activo
+2026-02-09,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-02-09,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9704932929611904,Activo
+2026-02-09,4942,ALEJANDRO  GUTIERREZ  GARCIA,Centro,Pachuca,1.0,Activo
+2026-02-09,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9100508912600364,Activo
+2026-02-09,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8728394339729223,Activo
+2026-02-09,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9226374446756972,Activo
+2026-02-09,4944,ViCTOR EDUARDO  ESCARTIN  SANCHEZ,Centro,San Juan del Río,1.0,Activo
+2026-02-09,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9677322324492045,Activo
+2026-02-09,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8309271466724126,Activo
+2026-02-09,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8901172199537994,Activo
+2026-02-09,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9324129048894108,Activo
+2026-02-09,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.966533866896637,Activo
+2026-02-09,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8329079307543815,Activo
+2026-02-09,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-02-09,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activo
+2026-02-09,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-02-09,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9382382140149915,Activo
+2026-02-09,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9192323439198324,Activo
+2026-02-09,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8636580814505277,Activo
+2026-02-09,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9369257362091585,Activo
+2026-02-09,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9978138887751431,Activo
+2026-02-09,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9490433530098623,Activo
+2026-02-09,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8292077918016263,Activo
+2026-02-09,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-02-09,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8455705308944895,Activo
+2026-02-09,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.948187100182375,Activo
+2026-02-09,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9259568679716697,Activo
+2026-02-09,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9577920221470194,Activo
+2026-02-09,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.915472779947877,Activo
+2026-02-09,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8577203156999536,Activo
+2026-02-09,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9773916027646321,Activo
+2026-02-09,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8779796958602952,Activo
+2026-02-09,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9897288445170079,Activo
+2026-02-09,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9473105247167376,Activo
+2026-02-09,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8195628476078018,Activo
+2026-02-09,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-02-09,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-02-09,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.9025684923067879,Activo
+2026-02-09,2722,gael alejandro medina ek,Península Sur,Motul,0.9778967986409914,Activo
+2026-02-09,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9990777408792475,Activo
+2026-02-09,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.831670877240328,Activo
+2026-02-09,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.8698155449143296,Activo
+2026-02-09,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9571508382140426,Activo
+2026-02-09,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9652310341572131,Activo
+2026-02-09,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-09,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0000000000000002,Activo
+2026-02-09,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-09,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9774580017827211,Activo
+2026-02-09,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9605400815502989,Activo
+2026-02-09,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8557109392232981,Activo
+2026-02-09,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9999999999999997,Activo
+2026-02-09,4943,OLGA LIDIA  MARTINEZ  CAMACHO,Península Sur,Valladolid,1.0,Activo
+2026-02-09,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9024929117391111,Activo
+2026-02-09,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9781010984697573,Activo
+2026-02-09,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999998,Activo
+2026-02-09,4248,HERMINIA  PEREZ CABRERA,Suc Digital,Salamanca,0.9781940091293,Activo
+2026-02-09,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.982372666892627,Activo
+2026-02-09,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.994481456919319,Activo
+2026-02-09,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9645859375676763,Activo
+2026-02-09,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9926656091271556,Activo
+2026-02-09,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9925026315617498,Activo
+2026-02-16,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9563977887570445,Activo
+2026-02-16,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9939439721777591,Activo
+2026-02-16,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9292563831163229,Activo
+2026-02-16,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9258271029765874,Activo
+2026-02-16,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,1.0,Activo
+2026-02-16,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9151632524170503,Activo
+2026-02-16,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.769680328658058,Activo
+2026-02-16,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.8934530974446916,Activo
+2026-02-16,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9398270582249517,Activo
+2026-02-16,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9614312223196884,Activo
+2026-02-16,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9963673286857462,Activo
+2026-02-16,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9786874480279327,Activo
+2026-02-16,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,1.0000000000000002,Activo
+2026-02-16,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9723638854703907,Activo
+2026-02-16,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.816108757500532,Activo
+2026-02-16,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9915982907278161,Activo
+2026-02-16,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8496905548771445,Activo
+2026-02-16,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9923175888067244,Activo
+2026-02-16,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.97080756129035,Activo
+2026-02-16,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9272936513673616,Activo
+2026-02-16,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.8409857249982853,Activo
+2026-02-16,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-02-16,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9428806348948244,Activo
+2026-02-16,4942,ALEJANDRO  GUTIERREZ  GARCIA,Centro,Pachuca,0.9375022542571805,Activo
+2026-02-16,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9175717543209533,Activo
+2026-02-16,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8741399467363654,Activo
+2026-02-16,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9233620079150261,Activo
+2026-02-16,4944,ViCTOR EDUARDO  ESCARTIN  SANCHEZ,Centro,San Juan del Río,1.0,Activo
+2026-02-16,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9597614732088143,Activo
+2026-02-16,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8512179441876069,Activo
+2026-02-16,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8956606333422897,Activo
+2026-02-16,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9360488799322627,Activo
+2026-02-16,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9700897562186757,Activo
+2026-02-16,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8229534175033945,Activo
+2026-02-16,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-02-16,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activo
+2026-02-16,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-02-16,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-02-16,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9468397567465697,Activo
+2026-02-16,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9490568541298239,Activo
+2026-02-16,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8663816163618785,Activo
+2026-02-16,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9369257362091585,Activo
+2026-02-16,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9999999999999998,Activo
+2026-02-16,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9502301262647881,Activo
+2026-02-16,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8405566242163098,Activo
+2026-02-16,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-02-16,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8475257927881263,Activo
+2026-02-16,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9460851408063409,Activo
+2026-02-16,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8933390823703808,Activo
+2026-02-16,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9462836477884976,Activo
+2026-02-16,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9176720986355215,Activo
+2026-02-16,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8634601324779491,Activo
+2026-02-16,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9765558130518072,Activo
+2026-02-16,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8852103500292515,Activo
+2026-02-16,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9942091218237955,Activo
+2026-02-16,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9483937487954914,Activo
+2026-02-16,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.840794397777146,Activo
+2026-02-16,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-02-16,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-02-16,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.9186063279965886,Activo
+2026-02-16,2722,gael alejandro medina ek,Península Sur,Motul,0.9699356753051805,Activo
+2026-02-16,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9989655454100849,Activo
+2026-02-16,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8362230090538451,Activo
+2026-02-16,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.871133903664972,Activo
+2026-02-16,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-16,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9658429977871584,Activo
+2026-02-16,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-16,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-16,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-16,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9799095033063686,Activo
+2026-02-16,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9850091382821781,Activo
+2026-02-16,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8749158070364028,Activo
+2026-02-16,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9999999999999997,Activo
+2026-02-16,4943,OLGA LIDIA  MARTINEZ  CAMACHO,Península Sur,Valladolid,1.0,Activo
+2026-02-16,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9155022325408664,Activo
+2026-02-16,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9822299863148526,Activo
+2026-02-16,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999996,Activo
+2026-02-16,4248,HERMINIA  PEREZ CABRERA,Suc Digital,Salamanca,0.979858542142961,Activo
+2026-02-16,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9787770245965803,Activo
+2026-02-16,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9951603513895304,Activo
+2026-02-16,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9662422120585783,Activo
+2026-02-16,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.934762245929901,Activo
+2026-02-16,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9925170925251031,Activo
+2026-02-23,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9551867781300035,Activo
+2026-02-23,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9944258957629498,Activo
+2026-02-23,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9180973178288471,Activo
+2026-02-23,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9603657809205423,Activo
+2026-02-23,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9854348806981064,Activo
+2026-02-23,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9392194631536543,Activo
+2026-02-23,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.7846216424362052,Activo
+2026-02-23,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.937339027358715,Activo
+2026-02-23,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9323564193064436,Activo
+2026-02-23,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9625675038742185,Activo
+2026-02-23,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9843269971397065,Activo
+2026-02-23,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9718210925562,Activo
+2026-02-23,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9999999999999999,Activo
+2026-02-23,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9691427206337005,Activo
+2026-02-23,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.8255139004826814,Activo
+2026-02-23,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9464474127908686,Activo
+2026-02-23,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8553602578860291,Activo
+2026-02-23,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9896574795627681,Activo
+2026-02-23,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9722649846335409,Activo
+2026-02-23,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9261092189519315,Activo
+2026-02-23,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.8157839147262322,Activo
+2026-02-23,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-02-23,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9469647692362191,Activo
+2026-02-23,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9171214786727229,Activo
+2026-02-23,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8687665043328506,Activo
+2026-02-23,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.978667008943887,Activo
+2026-02-23,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9588406615148306,Activo
+2026-02-23,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8544876097008982,Activo
+2026-02-23,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8927082515679052,Activo
+2026-02-23,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9394306217664162,Activo
+2026-02-23,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9882231932575256,Activo
+2026-02-23,4807,Lorey Enriquez Nava,Centro,Valle de Toluca,0.8230444036521123,Activo
+2026-02-23,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.9967416887077688,Activo
+2026-02-23,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,1.0,Activo
+2026-02-23,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-02-23,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-02-23,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9639161643680756,Activo
+2026-02-23,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9458374100177687,Activo
+2026-02-23,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.853227390959355,Activo
+2026-02-23,4575,Itzel Carmona Bernal,Centro,Zinacantepec,0.9372663882794429,Activo
+2026-02-23,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9946413094398816,Activo
+2026-02-23,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9505197270723886,Activo
+2026-02-23,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8691346559955201,Activo
+2026-02-23,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-02-23,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8546654676897634,Activo
+2026-02-23,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9798624771259391,Activo
+2026-02-23,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8973062132340999,Activo
+2026-02-23,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9535474851629245,Activo
+2026-02-23,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8896946816990504,Activo
+2026-02-23,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8474730005681631,Activo
+2026-02-23,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9808748732121354,Activo
+2026-02-23,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8851218188338721,Activo
+2026-02-23,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9931478201798031,Activo
+2026-02-23,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9490435471593168,Activo
+2026-02-23,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8420710452019968,Activo
+2026-02-23,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.9999999999999999,Activo
+2026-02-23,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-02-23,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8493857122948822,Activo
+2026-02-23,2722,gael alejandro medina ek,Península Sur,Motul,0.9709104956475767,Activo
+2026-02-23,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9975895363829712,Activo
+2026-02-23,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8341097218094777,Activo
+2026-02-23,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.8983293130377126,Activo
+2026-02-23,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9999999999999998,Activo
+2026-02-23,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9728928898925197,Activo
+2026-02-23,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-23,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0000000000000002,Activo
+2026-02-23,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-02-23,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.987053507472182,Activo
+2026-02-23,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9791002022247944,Activo
+2026-02-23,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8730443664537182,Activo
+2026-02-23,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9999999999999997,Activo
+2026-02-23,4943,OLGA LIDIA  MARTINEZ  CAMACHO,Península Sur,Valladolid,1.0,Activo
+2026-02-23,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9081419033482626,Activo
+2026-02-23,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.983740518162955,Activo
+2026-02-23,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999999,Activo
+2026-02-23,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.979705662458545,Activo
+2026-02-23,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9949102425448536,Activo
+2026-02-23,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9667153931962007,Activo
+2026-02-23,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9396543068941285,Activo
+2026-02-23,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9928694470302215,Activo
+2026-03-02,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9574718966498977,Activo
+2026-03-02,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9919672650742242,Activo
+2026-03-02,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9019495468844116,Activo
+2026-03-02,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9649113278545753,Activo
+2026-03-02,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9427122377588034,Activo
+2026-03-02,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,1.0,Activo
+2026-03-02,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.8749887699125299,Activo
+2026-03-02,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9281170407215948,Activo
+2026-03-02,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9396375267123082,Activo
+2026-03-02,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9558056189606354,Activo
+2026-03-02,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9839666542704132,Activo
+2026-03-02,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9718210925562,Activo
+2026-03-02,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9999999999999999,Activo
+2026-03-02,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9696988143393159,Activo
+2026-03-02,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.8024766582978399,Activo
+2026-03-02,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9480112815673324,Activo
+2026-03-02,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8634337098552429,Activo
+2026-03-02,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9688779893839331,Activo
+2026-03-02,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9722649846335409,Activo
+2026-03-02,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.92627458932557,Activo
+2026-03-02,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.8652861421545743,Activo
+2026-03-02,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-03-02,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9364713860008194,Activo
+2026-03-02,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-03-02,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9096417356376711,Activo
+2026-03-02,4701,Jesus Ortiz Trejo,Centro,San Juan del Río,0.8688052294966162,Activo
+2026-03-02,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9776983387118239,Activo
+2026-03-02,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9563268448714802,Activo
+2026-03-02,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8544876097008982,Activo
+2026-03-02,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.886451474786576,Activo
+2026-03-02,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9462627761909339,Activo
+2026-03-02,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9861612042902025,Activo
+2026-03-02,4920,JESSICA VIVIANA  PEREZ  RAMIREZ,Centro,Valle de Toluca,0.995914234918896,Activo
+2026-03-02,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9989102487909104,Activo
+2026-03-02,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-03-02,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-03-02,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9639288337918149,Activo
+2026-03-02,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8519998065029841,Activo
+2026-03-02,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8528650773019103,Activo
+2026-03-02,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9431564049753421,Activo
+2026-03-02,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9535243660100295,Activo
+2026-03-02,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8703254931508513,Activo
+2026-03-02,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-03-02,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8653195300945757,Activo
+2026-03-02,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9794564941119547,Activo
+2026-03-02,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8987021918216668,Activo
+2026-03-02,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9650732888860505,Activo
+2026-03-02,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8848615378117781,Activo
+2026-03-02,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8621408404303103,Activo
+2026-03-02,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9815554589046492,Activo
+2026-03-02,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8746411211557868,Activo
+2026-03-02,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9960108845271851,Activo
+2026-03-02,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9754922774041855,Activo
+2026-03-02,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8421718632846911,Activo
+2026-03-02,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-03-02,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-03-02,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.804203184349657,Activo
+2026-03-02,2722,gael alejandro medina ek,Península Sur,Motul,0.96689244073635,Activo
+2026-03-02,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9955298120273682,Activo
+2026-03-02,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8250326294882538,Activo
+2026-03-02,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.891311070061718,Activo
+2026-03-02,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-02,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9881974187516137,Activo
+2026-03-02,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-02,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-02,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-02,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9896152348861471,Activo
+2026-03-02,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9754590579460303,Activo
+2026-03-02,4897,FRANCISCO JAVIER  CEN  CHULIM,Península Sur,Valladolid,0.8816989707229959,Activo
+2026-03-02,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9999999999999999,Activo
+2026-03-02,4943,OLGA LIDIA  MARTINEZ  CAMACHO,Península Sur,Valladolid,1.0,Activo
+2026-03-02,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9018770840583765,Activo
+2026-03-02,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9859253103606362,Activo
+2026-03-02,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999998,Activo
+2026-03-02,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.979514001061262,Activo
+2026-03-02,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9929298625146251,Activo
+2026-03-02,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9683771061079669,Activo
+2026-03-02,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9152168472852462,Activo
+2026-03-02,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9929644225859594,Activo
+2026-03-09,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9894114108327517,Activo
+2026-03-09,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9678327991349728,Activo
+2026-03-09,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.8931539904403365,Activo
+2026-03-09,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9761567603573525,Activo
+2026-03-09,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9058954886796546,Activo
+2026-03-09,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9999999999999998,Activo
+2026-03-09,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.8350788197067299,Activo
+2026-03-09,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9342209364590368,Activo
+2026-03-09,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9610936194590423,Activo
+2026-03-09,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9676505941591195,Activo
+2026-03-09,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9825137042609993,Activo
+2026-03-09,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9696928191950462,Activo
+2026-03-09,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9999999999999998,Activo
+2026-03-09,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9701766234776457,Activo
+2026-03-09,4537,Eva María Molina Guerrero,Bajio Occidente,Irapuato,0.8406916007132228,Activo
+2026-03-09,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.903530602467712,Activo
+2026-03-09,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8652660815945626,Activo
+2026-03-09,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9637276996023952,Activo
+2026-03-09,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9645957837802459,Activo
+2026-03-09,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9034601485919682,Activo
+2026-03-09,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.8518685558283281,Activo
+2026-03-09,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-03-09,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9349931319454884,Activo
+2026-03-09,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-03-09,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9063840927499937,Activo
+2026-03-09,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.956865700251797,Activo
+2026-03-09,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.8967386755275939,Activo
+2026-03-09,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8530604493361416,Activo
+2026-03-09,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8327445345030868,Activo
+2026-03-09,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9525088272175474,Activo
+2026-03-09,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9749944212518138,Activo
+2026-03-09,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.962644192647768,Activo
+2026-03-09,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0000000000000002,Activo
+2026-03-09,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-03-09,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.956537131552593,Activo
+2026-03-09,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8289108063944962,Activo
+2026-03-09,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.815894538391958,Activo
+2026-03-09,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9716952784471915,Activo
+2026-03-09,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9924928014849368,Activo
+2026-03-09,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8541538017492111,Activo
+2026-03-09,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9905172843597211,Activo
+2026-03-09,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.865949419420204,Activo
+2026-03-09,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9802984827719231,Activo
+2026-03-09,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9041435204089499,Activo
+2026-03-09,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9679885007531165,Activo
+2026-03-09,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8914108407682354,Activo
+2026-03-09,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8607587294733076,Activo
+2026-03-09,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9814892073357063,Activo
+2026-03-09,4567,GRECIA DEL SOCORRO  ROSADO  GUTIERREZ,Península Sur,Cozumel,0.8245219535096492,Activo
+2026-03-09,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9986400060492748,Activo
+2026-03-09,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9562255944410287,Activo
+2026-03-09,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8205860725685349,Activo
+2026-03-09,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-03-09,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-03-09,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8124914902309249,Activo
+2026-03-09,2722,gael alejandro medina ek,Península Sur,Motul,0.9436587250677261,Activo
+2026-03-09,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9741071752010729,Activo
+2026-03-09,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.7892806719537262,Activo
+2026-03-09,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.8776580335581989,Activo
+2026-03-09,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-09,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.985633127481824,Activo
+2026-03-09,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-09,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-09,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0000000000000002,Activo
+2026-03-09,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9727346593405575,Activo
+2026-03-09,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9572669210070694,Activo
+2026-03-09,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9999999999999998,Activo
+2026-03-09,4943,OLGA LIDIA  MARTINEZ  CAMACHO,Península Sur,Valladolid,1.0,Activo
+2026-03-09,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-03-09,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9067606820315678,Activo
+2026-03-09,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9767086513284713,Activo
+2026-03-09,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-03-09,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.981276709205021,Activo
+2026-03-09,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9869361395953016,Activo
+2026-03-09,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9866928336749619,Activo
+2026-03-09,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9152168472852462,Activo
+2026-03-09,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9929509902642839,Activo
+2026-03-19,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,1.0,Activo
+2026-03-19,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9659483562490006,Activo
+2026-03-19,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9434171424831242,Activo
+2026-03-19,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9743362246401028,Activo
+2026-03-19,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.954936902948647,Activo
+2026-03-19,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9950361066286089,Activo
+2026-03-19,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.8426236629929994,Activo
+2026-03-19,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9420175019844725,Activo
+2026-03-19,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9276844287544145,Activo
+2026-03-19,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9537151283258685,Activo
+2026-03-19,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.989756602987828,Activo
+2026-03-19,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9513035247032882,Activo
+2026-03-19,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9968379386274723,Activo
+2026-03-19,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9588161086102877,Activo
+2026-03-19,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9521169487859639,Activo
+2026-03-19,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8418580685977194,Activo
+2026-03-19,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-03-19,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9757397413297377,Activo
+2026-03-19,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9597217065667077,Activo
+2026-03-19,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.8835460898682311,Activo
+2026-03-19,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9024787172378969,Activo
+2026-03-19,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,1.0,Activo
+2026-03-19,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9362832642866867,Activo
+2026-03-19,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-03-19,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-03-19,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9157397931984949,Activo
+2026-03-19,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9602342653603936,Activo
+2026-03-19,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9400144028110232,Activo
+2026-03-19,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8437035219663834,Activo
+2026-03-19,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8605600965982173,Activo
+2026-03-19,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9531832407263677,Activo
+2026-03-19,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9773512831654849,Activo
+2026-03-19,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9801630355243577,Activo
+2026-03-19,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-03-19,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0000000000000002,Activo
+2026-03-19,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9107913269607982,Activo
+2026-03-19,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8483461083803059,Activo
+2026-03-19,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.809716028030785,Activo
+2026-03-19,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9642322817253833,Activo
+2026-03-19,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9958137253805113,Activo
+2026-03-19,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8809860993391415,Activo
+2026-03-19,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9517411437760407,Activo
+2026-03-19,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.868635235414657,Activo
+2026-03-19,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9429426819012379,Activo
+2026-03-19,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8866892675165795,Activo
+2026-03-19,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9267656014003494,Activo
+2026-03-19,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9115693631292441,Activo
+2026-03-19,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8536728496353514,Activo
+2026-03-19,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9858467876458419,Activo
+2026-03-19,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9750775466037852,Activo
+2026-03-19,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8483089155663309,Activo
+2026-03-19,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0000000000000002,Activo
+2026-03-19,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8444604291815603,Activo
+2026-03-19,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-03-19,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0000000000000002,Activo
+2026-03-19,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8181445006889938,Activo
+2026-03-19,2722,gael alejandro medina ek,Península Sur,Motul,0.954797622009153,Activo
+2026-03-19,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9758858574470386,Activo
+2026-03-19,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8721056373239716,Activo
+2026-03-19,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9227806258282472,Activo
+2026-03-19,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9999999999999999,Activo
+2026-03-19,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9798933648141831,Activo
+2026-03-19,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-19,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0000000000000002,Activo
+2026-03-19,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-19,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.976681220970121,Activo
+2026-03-19,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9413290959789495,Activo
+2026-03-19,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9939036878329335,Activo
+2026-03-19,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-03-19,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8932712454907218,Activo
+2026-03-19,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.985114355077399,Activo
+2026-03-19,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0000000000000002,Activo
+2026-03-19,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9612812802310823,Activo
+2026-03-19,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9958876395586211,Activo
+2026-03-19,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9871977853427807,Activo
+2026-03-19,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8947632379385887,Activo
+2026-03-19,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9931660299985717,Activo
+2026-03-24,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,1.0,Activo
+2026-03-24,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9669707637875828,Activo
+2026-03-24,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9434171424831242,Activo
+2026-03-24,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9812476833606433,Activo
+2026-03-24,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.954936902948647,Activo
+2026-03-24,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9917242082458563,Activo
+2026-03-24,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.8426236629929995,Activo
+2026-03-24,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9103873372622541,Activo
+2026-03-24,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.9409578264212869,Activo
+2026-03-24,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9436381553295675,Activo
+2026-03-24,4968,VALDEMAR  GARCIA  FLORES,Bajio Occidente,Guadalajara,1.0,Activo
+2026-03-24,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9883144112627075,Activo
+2026-03-24,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9485993712603906,Activo
+2026-03-24,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9970546856409715,Activo
+2026-03-24,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9614208309051446,Activo
+2026-03-24,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.956297070622505,Activo
+2026-03-24,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8601272238680773,Activo
+2026-03-24,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-03-24,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9241742363959354,Activo
+2026-03-24,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9196542579069636,Activo
+2026-03-24,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9220743490174782,Activo
+2026-03-24,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9951246263244943,Activo
+2026-03-24,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9772200609935205,Activo
+2026-03-24,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9338529570051997,Activo
+2026-03-24,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-03-24,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-03-24,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9125860506403763,Activo
+2026-03-24,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9646599917889258,Activo
+2026-03-24,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9228474540267956,Activo
+2026-03-24,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8379996536471231,Activo
+2026-03-24,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8605600965982171,Activo
+2026-03-24,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9462323249851644,Activo
+2026-03-24,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9852819560453859,Activo
+2026-03-24,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9641814745555157,Activo
+2026-03-24,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-03-24,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9999999999999999,Activo
+2026-03-24,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8452523454921861,Activo
+2026-03-24,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8088861388589337,Activo
+2026-03-24,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9663477812448886,Activo
+2026-03-24,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9926916797681323,Activo
+2026-03-24,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8929665823340445,Activo
+2026-03-24,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9528883793471838,Activo
+2026-03-24,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9114406045695604,Activo
+2026-03-24,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8690835969119379,Activo
+2026-03-24,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9380843247144377,Activo
+2026-03-24,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8983702104436808,Activo
+2026-03-24,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9253067872647105,Activo
+2026-03-24,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9018597399303395,Activo
+2026-03-24,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8482350208761441,Activo
+2026-03-24,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9868964031772275,Activo
+2026-03-24,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.979636963121067,Activo
+2026-03-24,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8408894104149187,Activo
+2026-03-24,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-03-24,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8154975665704972,Activo
+2026-03-24,2722,gael alejandro medina ek,Península Sur,Motul,0.9543888075377788,Activo
+2026-03-24,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9756070121647173,Activo
+2026-03-24,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8723612040572399,Activo
+2026-03-24,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9227806258282474,Activo
+2026-03-24,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.850958301218452,Activo
+2026-03-24,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-03-24,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-03-24,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-24,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9498064577805244,Activo
+2026-03-24,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-24,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-24,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-24,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9767933261345066,Activo
+2026-03-24,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9576285561952225,Activo
+2026-03-24,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9970901270381457,Activo
+2026-03-24,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-03-24,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8858845934793188,Activo
+2026-03-24,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9869913084795187,Activo
+2026-03-24,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-03-24,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9642002595076361,Activo
+2026-03-24,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9917752791172425,Activo
+2026-03-24,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9876791706692736,Activo
+2026-03-24,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8947632379385885,Activo
+2026-03-24,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9932120984310884,Activo
+2026-03-30,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9946714600381793,Activo
+2026-03-30,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9367461098739974,Activo
+2026-03-30,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9434171424831242,Activo
+2026-03-30,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9749123282435211,Activo
+2026-03-30,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9591298725197479,Activo
+2026-03-30,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9786536076639194,Activo
+2026-03-30,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.8169867258310111,Activo
+2026-03-30,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9066331603610484,Activo
+2026-03-30,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8936336996404773,Activo
+2026-03-30,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.941365403210991,Activo
+2026-03-30,4968,VALDEMAR  GARCIA  FLORES,Bajio Occidente,Guadalajara,1.0,Activo
+2026-03-30,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9887627287983632,Activo
+2026-03-30,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.954097696630325,Activo
+2026-03-30,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9924838594593456,Activo
+2026-03-30,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9739017687970937,Activo
+2026-03-30,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.957243772525866,Activo
+2026-03-30,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.853362066880427,Activo
+2026-03-30,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-03-30,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9323088919708541,Activo
+2026-03-30,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.9114767615630506,Activo
+2026-03-30,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9214953240565311,Activo
+2026-03-30,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9958242801820198,Activo
+2026-03-30,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9789573757876494,Activo
+2026-03-30,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.935872227704212,Activo
+2026-03-30,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-03-30,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-03-30,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8930024549838025,Activo
+2026-03-30,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9481322887136145,Activo
+2026-03-30,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9296727499759272,Activo
+2026-03-30,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8477345116908899,Activo
+2026-03-30,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8605600965982171,Activo
+2026-03-30,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9068730387650233,Activo
+2026-03-30,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9827593683897584,Activo
+2026-03-30,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9726281404985212,Activo
+2026-03-30,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-03-30,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-03-30,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-03-30,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8344253701447106,Activo
+2026-03-30,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8107643479831083,Activo
+2026-03-30,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9728154896699068,Activo
+2026-03-30,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9873238235981893,Activo
+2026-03-30,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.891048819922631,Activo
+2026-03-30,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9631299569859383,Activo
+2026-03-30,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9225307980631463,Activo
+2026-03-30,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8720381960755716,Activo
+2026-03-30,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9209469892359011,Activo
+2026-03-30,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9001898227007079,Activo
+2026-03-30,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9281023758839932,Activo
+2026-03-30,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8932231056292996,Activo
+2026-03-30,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8629297177544051,Activo
+2026-03-30,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9848147786298751,Activo
+2026-03-30,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9783869311135531,Activo
+2026-03-30,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9002152199032563,Activo
+2026-03-30,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-03-30,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8097581436064677,Activo
+2026-03-30,2722,gael alejandro medina ek,Península Sur,Motul,0.9510220901820591,Activo
+2026-03-30,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9744686764040024,Activo
+2026-03-30,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.863411185349773,Activo
+2026-03-30,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9335615117084676,Activo
+2026-03-30,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.8981258014307749,Activo
+2026-03-30,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-03-30,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,0.9905875794194385,Activo
+2026-03-30,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-30,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9506558182806398,Activo
+2026-03-30,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-30,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-03-30,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9800400213695112,Activo
+2026-03-30,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9607052997688712,Activo
+2026-03-30,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9969943175495977,Activo
+2026-03-30,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-03-30,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9016429493265634,Activo
+2026-03-30,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9864611530491779,Activo
+2026-03-30,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-03-30,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9635294027502556,Activo
+2026-03-30,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9915584580923194,Activo
+2026-03-30,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.988879833685576,Activo
+2026-03-30,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8960594870444982,Activo
+2026-03-30,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9932942871869378,Activo
+2026-04-06,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,1.0,Activo
+2026-04-06,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9395626172335557,Activo
+2026-04-06,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9608070965018279,Activo
+2026-04-06,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9730547997450768,Activo
+2026-04-06,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.963190208733729,Activo
+2026-04-06,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9689052627772488,Activo
+2026-04-06,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.4447526615592848,Activo
+2026-04-06,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9199026915940637,Activo
+2026-04-06,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.89294222014643,Activo
+2026-04-06,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.936396703612403,Activo
+2026-04-06,4968,VALDEMAR  GARCIA  FLORES,Bajio Occidente,Guadalajara,1.0,Activo
+2026-04-06,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9825469721548513,Activo
+2026-04-06,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.886585957185938,Activo
+2026-04-06,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9919027280743962,Activo
+2026-04-06,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9700730258475009,Activo
+2026-04-06,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9542121633408529,Activo
+2026-04-06,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8666339221212294,Activo
+2026-04-06,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-04-06,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9110954904625257,Activo
+2026-04-06,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.8610115822688712,Activo
+2026-04-06,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.922201758873835,Activo
+2026-04-06,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9964154889386982,Activo
+2026-04-06,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9783030499239038,Activo
+2026-04-06,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9374784087987278,Activo
+2026-04-06,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-04-06,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-04-06,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8840640212623572,Activo
+2026-04-06,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.952117231223966,Activo
+2026-04-06,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9171566940682948,Activo
+2026-04-06,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8540457785387698,Activo
+2026-04-06,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9128473513845786,Activo
+2026-04-06,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.8965189792749996,Activo
+2026-04-06,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9743832261669423,Activo
+2026-04-06,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9712984281797474,Activo
+2026-04-06,4948,SONIA LILIAN  CORTEZ  ROBLES,Centro,Valle de Toluca,1.0,Activo
+2026-04-06,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-04-06,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-04-06,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8402814858640472,Activo
+2026-04-06,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.865209039257407,Activo
+2026-04-06,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9728154896699068,Activo
+2026-04-06,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9858154347234764,Activo
+2026-04-06,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8911668193756497,Activo
+2026-04-06,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9747957817415588,Activo
+2026-04-06,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.9342952211372418,Activo
+2026-04-06,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.875199140212466,Activo
+2026-04-06,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.905825208518783,Activo
+2026-04-06,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8976058240158213,Activo
+2026-04-06,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.922162217019515,Activo
+2026-04-06,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8962974610752533,Activo
+2026-04-06,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8638837254758254,Activo
+2026-04-06,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9936718322784883,Activo
+2026-04-06,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9753208953179295,Activo
+2026-04-06,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9079524820556211,Activo
+2026-04-06,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-04-06,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-04-06,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-04-06,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8142966471601621,Activo
+2026-04-06,2722,gael alejandro medina ek,Península Sur,Motul,0.9503416306387722,Activo
+2026-04-06,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9739097393152154,Activo
+2026-04-06,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8735310206581436,Activo
+2026-04-06,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9302503200148583,Activo
+2026-04-06,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9025751245287006,Activo
+2026-04-06,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,1.0,Activo
+2026-04-06,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-04-06,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-06,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9273385311861508,Activo
+2026-04-06,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-06,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-06,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9903184471015154,Activo
+2026-04-06,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9620174545073623,Activo
+2026-04-06,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9934795864914409,Activo
+2026-04-06,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-04-06,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9097036486319136,Activo
+2026-04-06,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9857234671738807,Activo
+2026-04-06,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-04-06,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9634347275437025,Activo
+2026-04-06,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9915968103523523,Activo
+2026-04-06,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.988657320884741,Activo
+2026-04-06,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8960594870444982,Activo
+2026-04-06,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9932902250380897,Activo
+2026-04-13,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9949625728950489,Activo
+2026-04-13,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9557715936060781,Activo
+2026-04-13,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9608070965018279,Activo
+2026-04-13,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.9120127913004542,Activo
+2026-04-13,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.9570846258262198,Activo
+2026-04-13,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.9535928032355024,Activo
+2026-04-13,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.4600104277885986,Activo
+2026-04-13,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9373937602235087,Activo
+2026-04-13,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8188080010316838,Activo
+2026-04-13,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9244976607549985,Activo
+2026-04-13,4968,VALDEMAR  GARCIA  FLORES,Bajio Occidente,Guadalajara,1.0,Activo
+2026-04-13,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9757772761158182,Activo
+2026-04-13,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9179853126075518,Activo
+2026-04-13,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9907598459662642,Activo
+2026-04-13,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9043416226974886,Activo
+2026-04-13,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9583810376302961,Activo
+2026-04-13,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8577283459765828,Activo
+2026-04-13,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-04-13,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.958774632382049,Activo
+2026-04-13,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.86998745969961,Activo
+2026-04-13,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9356432108249434,Activo
+2026-04-13,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9968119893438647,Activo
+2026-04-13,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9786593133435392,Activo
+2026-04-13,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9419631339542185,Activo
+2026-04-13,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-04-13,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-04-13,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8790316932658685,Activo
+2026-04-13,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.957760392005863,Activo
+2026-04-13,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9171566940682948,Activo
+2026-04-13,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8517400024266975,Activo
+2026-04-13,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9128473513845786,Activo
+2026-04-13,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9492121129946143,Activo
+2026-04-13,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.977451848516956,Activo
+2026-04-13,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9741831437912927,Activo
+2026-04-13,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-04-13,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-04-13,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8396901490663004,Activo
+2026-04-13,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8899831954352984,Activo
+2026-04-13,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9719209511539757,Activo
+2026-04-13,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9929470038651119,Activo
+2026-04-13,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8881377845017268,Activo
+2026-04-13,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9775952950716513,Activo
+2026-04-13,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8749292151946513,Activo
+2026-04-13,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8903555424562017,Activo
+2026-04-13,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9315714747736903,Activo
+2026-04-13,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8869359808750091,Activo
+2026-04-13,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9370829048660917,Activo
+2026-04-13,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9092535561974733,Activo
+2026-04-13,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8331332550503407,Activo
+2026-04-13,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9913423927143519,Activo
+2026-04-13,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9518060654167514,Activo
+2026-04-13,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9145264505569625,Activo
+2026-04-13,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,0.9999999999999999,Activo
+2026-04-13,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-04-13,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-04-13,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8419987577642715,Activo
+2026-04-13,2722,gael alejandro medina ek,Península Sur,Motul,0.9533469061428829,Activo
+2026-04-13,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9778996234309844,Activo
+2026-04-13,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8914923779329496,Activo
+2026-04-13,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9266778359811382,Activo
+2026-04-13,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9246419086343355,Activo
+2026-04-13,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.9939056238356296,Activo
+2026-04-13,4950,MARINE DE JESÚS  CHUC  IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-04-13,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9982857228532843,Activo
+2026-04-13,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.927825739759981,Activo
+2026-04-13,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.990361696778338,Activo
+2026-04-13,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-13,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9897494565042544,Activo
+2026-04-13,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9627793859402901,Activo
+2026-04-13,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9843180279462165,Activo
+2026-04-13,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-04-13,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,1.0,Activo
+2026-04-13,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9055877874126869,Activo
+2026-04-13,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9877816954968411,Activo
+2026-04-13,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999998,Activo
+2026-04-13,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9477895369341586,Activo
+2026-04-13,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9920414352308586,Activo
+2026-04-13,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9897114881026103,Activo
+2026-04-13,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9023874606264196,Activo
+2026-04-13,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9925503626451861,Activo
+2026-04-20,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9952806062940182,Activo
+2026-04-20,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.954332473036802,Activo
+2026-04-20,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9288681761525515,Activo
+2026-04-20,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8887836651068977,Activo
+2026-04-20,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.8304236173756168,Activo
+2026-04-20,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8911734804214798,Activo
+2026-04-20,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.490897412546992,Activo
+2026-04-20,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9279594869448744,Activo
+2026-04-20,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8303979757649183,Activo
+2026-04-20,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9225947316448038,Activo
+2026-04-20,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9754520422130106,Activo
+2026-04-20,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9589738694078705,Activo
+2026-04-20,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9895249782381342,Activo
+2026-04-20,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8884067780562892,Activo
+2026-04-20,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9577259000561299,Activo
+2026-04-20,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.8772170715559058,Activo
+2026-04-20,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-04-20,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9650479994487282,Activo
+2026-04-20,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.8678477247281635,Activo
+2026-04-20,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9435842941450102,Activo
+2026-04-20,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9968120584898593,Activo
+2026-04-20,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9733537506612975,Activo
+2026-04-20,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9404263597433421,Activo
+2026-04-20,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-04-20,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-04-20,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8756419333820327,Activo
+2026-04-20,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.94410616515526,Activo
+2026-04-20,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9196338329290984,Activo
+2026-04-20,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8504653791916055,Activo
+2026-04-20,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9168075699717062,Activo
+2026-04-20,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9487408167190169,Activo
+2026-04-20,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9773174296062899,Activo
+2026-04-20,4935,ALEXIS  ARELLANO  ESCANDON,Centro,Valle de Toluca,0.9738313237946211,Activo
+2026-04-20,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,1.0,Activo
+2026-04-20,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-04-20,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8397455020993648,Activo
+2026-04-20,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8692138848253036,Activo
+2026-04-20,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9686891688492253,Activo
+2026-04-20,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9599154184762648,Activo
+2026-04-20,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8877580446580848,Activo
+2026-04-20,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-04-20,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8777076516009238,Activo
+2026-04-20,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8867554491237185,Activo
+2026-04-20,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9251618553800017,Activo
+2026-04-20,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8743179120266494,Activo
+2026-04-20,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.937683264120874,Activo
+2026-04-20,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9136216171943017,Activo
+2026-04-20,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8450228616190049,Activo
+2026-04-20,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9931850000876192,Activo
+2026-04-20,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9534472709435238,Activo
+2026-04-20,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.908748709008382,Activo
+2026-04-20,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-04-20,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-04-20,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-04-20,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8663581936323301,Activo
+2026-04-20,2722,gael alejandro medina ek,Península Sur,Motul,0.9510681098403683,Activo
+2026-04-20,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9768152978661835,Activo
+2026-04-20,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8533079227421436,Activo
+2026-04-20,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9174656624271815,Activo
+2026-04-20,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9261605814637361,Activo
+2026-04-20,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.9640522925151769,Activo
+2026-04-20,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-04-20,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.998561981043232,Activo
+2026-04-20,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9279773298630936,Activo
+2026-04-20,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-20,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-20,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.993743904752812,Activo
+2026-04-20,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9648768499319026,Activo
+2026-04-20,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9826731923416172,Activo
+2026-04-20,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-04-20,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,1.0,Activo
+2026-04-20,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.9055877874126869,Activo
+2026-04-20,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9873747932991291,Activo
+2026-04-20,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-04-20,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9604250850746798,Activo
+2026-04-20,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9917723183706232,Activo
+2026-04-20,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9897114881026103,Activo
+2026-04-20,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9032010383413026,Activo
+2026-04-20,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9927751290853902,Activo
+2026-04-27,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9931381396730532,Activo
+2026-04-27,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9402298685180464,Activo
+2026-04-27,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9288681761525515,Activo
+2026-04-27,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8949901441082699,Activo
+2026-04-27,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.7968536356129944,Activo
+2026-04-27,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8855336182324158,Activo
+2026-04-27,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.5004115357475873,Activo
+2026-04-27,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9031163615472655,Activo
+2026-04-27,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.832164352335385,Activo
+2026-04-27,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.9007918288006678,Activo
+2026-04-27,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9717307628777294,Activo
+2026-04-27,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9235940040878042,Activo
+2026-04-27,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9770205717227172,Activo
+2026-04-27,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8777910976225115,Activo
+2026-04-27,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9006601611766357,Activo
+2026-04-27,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9393615639207131,Activo
+2026-04-27,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,1.0,Activo
+2026-04-27,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9590216133515167,Activo
+2026-04-27,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7743423536102264,Activo
+2026-04-27,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9673190433543275,Activo
+2026-04-27,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9968121391601864,Activo
+2026-04-27,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-04-27,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9635080572044915,Activo
+2026-04-27,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9510989618588066,Activo
+2026-04-27,4965,ARTURO MORENO CABRERA,Centro,Pachuca,1.0,Activo
+2026-04-27,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-04-27,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8836346400802161,Activo
+2026-04-27,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9497854869721445,Activo
+2026-04-27,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9196338329290984,Activo
+2026-04-27,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.7883579135959381,Activo
+2026-04-27,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9205025321459696,Activo
+2026-04-27,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9446699044012353,Activo
+2026-04-27,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9759150836345121,Activo
+2026-04-27,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9985188159709326,Activo
+2026-04-27,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-04-27,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-04-27,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8399790594084796,Activo
+2026-04-27,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8875132990997906,Activo
+2026-04-27,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9634706037974348,Activo
+2026-04-27,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9651895371161746,Activo
+2026-04-27,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8872274182630892,Activo
+2026-04-27,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-04-27,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8892060291694817,Activo
+2026-04-27,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8922155425304641,Activo
+2026-04-27,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9289905773136163,Activo
+2026-04-27,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8711456652349102,Activo
+2026-04-27,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9377877446278399,Activo
+2026-04-27,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8976429034871864,Activo
+2026-04-27,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.884287388237787,Activo
+2026-04-27,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9947304589869029,Activo
+2026-04-27,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9393807045643658,Activo
+2026-04-27,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9105124328744483,Activo
+2026-04-27,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-04-27,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-04-27,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-04-27,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8722398266150289,Activo
+2026-04-27,2722,gael alejandro medina ek,Península Sur,Motul,0.9574913168496897,Activo
+2026-04-27,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9772836014669216,Activo
+2026-04-27,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8810311393639289,Activo
+2026-04-27,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9227549274059775,Activo
+2026-04-27,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9312257855604137,Activo
+2026-04-27,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.9680152868426584,Activo
+2026-04-27,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9983659651768529,Activo
+2026-04-27,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9849663113453624,Activo
+2026-04-27,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9147979211312549,Activo
+2026-04-27,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-27,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-04-27,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9937457599713364,Activo
+2026-04-27,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9781329684201716,Activo
+2026-04-27,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9961497708650743,Activo
+2026-04-27,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-04-27,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,1.0,Activo
+2026-04-27,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.890440368696536,Activo
+2026-04-27,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9901359803491883,Activo
+2026-04-27,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999998,Activo
+2026-04-27,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.968628746177772,Activo
+2026-04-27,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9915499657346232,Activo
+2026-04-27,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9906885625223644,Activo
+2026-04-27,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9010868577556475,Activo
+2026-04-27,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9913494270534202,Activo
+2026-05-04,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,1.0,Activo
+2026-05-04,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9371616630385694,Activo
+2026-05-04,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9288681761525515,Activo
+2026-05-04,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8687245041831061,Activo
+2026-05-04,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.7922099039225613,Activo
+2026-05-04,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8384733673239928,Activo
+2026-05-04,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.4782055533746623,Activo
+2026-05-04,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.893811988616357,Activo
+2026-05-04,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8434033287941088,Activo
+2026-05-04,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.8803287513459925,Activo
+2026-05-04,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9717083787144492,Activo
+2026-05-04,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9154905554325542,Activo
+2026-05-04,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9516487032984288,Activo
+2026-05-04,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8734281656243923,Activo
+2026-05-04,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9041536052359496,Activo
+2026-05-04,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9540273203688293,Activo
+2026-05-04,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9986798552468232,Activo
+2026-05-04,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9639360993223159,Activo
+2026-05-04,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7839315586206445,Activo
+2026-05-04,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9627809567369517,Activo
+2026-05-04,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9797021951613591,Activo
+2026-05-04,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-05-04,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9616925261372468,Activo
+2026-05-04,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9516322089700189,Activo
+2026-05-04,4965,ARTURO MORENO CABRERA,Centro,Pachuca,0.9943267619067927,Activo
+2026-05-04,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-05-04,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9000935178675755,Activo
+2026-05-04,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9508115489034622,Activo
+2026-05-04,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9207421306840226,Activo
+2026-05-04,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.7858467017828018,Activo
+2026-05-04,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.9203141009300762,Activo
+2026-05-04,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9558927907909865,Activo
+2026-05-04,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9632804197782522,Activo
+2026-05-04,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.998519147127752,Activo
+2026-05-04,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-05-04,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-05-04,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8067483308634545,Activo
+2026-05-04,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8933514970150555,Activo
+2026-05-04,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9403179576447676,Activo
+2026-05-04,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9653387507372965,Activo
+2026-05-04,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8895225394353077,Activo
+2026-05-04,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-05-04,4998,EDGAR  NÚÑEZ  NUTE,Centro,Zinacantepec,1.0,Activo
+2026-05-04,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.869695344317492,Activo
+2026-05-04,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8974243833201587,Activo
+2026-05-04,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9255327548292187,Activo
+2026-05-04,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.9009535252636413,Activo
+2026-05-04,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9326308797439152,Activo
+2026-05-04,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8959310672898839,Activo
+2026-05-04,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8662972880848708,Activo
+2026-05-04,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-05-04,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9949902423232004,Activo
+2026-05-04,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9076501969959145,Activo
+2026-05-04,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9025670562124325,Activo
+2026-05-04,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-05-04,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-05-04,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-05-04,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8778837740978597,Activo
+2026-05-04,2722,gael alejandro medina ek,Península Sur,Motul,0.960917608206878,Activo
+2026-05-04,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9780296713729073,Activo
+2026-05-04,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8867690063056287,Activo
+2026-05-04,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9106031090386048,Activo
+2026-05-04,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9374655735901762,Activo
+2026-05-04,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.9470230893606006,Activo
+2026-05-04,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,1.0,Activo
+2026-05-04,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9852403344899971,Activo
+2026-05-04,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9383803419949929,Activo
+2026-05-04,4755,Comodin Playa del Carmen Unico,Península Sur,Playa del Carmen,1.0,Activo
+2026-05-04,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-05-04,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9935303314122309,Activo
+2026-05-04,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9755879256283901,Activo
+2026-05-04,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9765163707579155,Activo
+2026-05-04,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-05-04,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,1.0,Activo
+2026-05-04,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8298467444992378,Activo
+2026-05-04,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9895908341440034,Activo
+2026-05-04,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-05-04,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9816148791910336,Activo
+2026-05-04,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9916951573670998,Activo
+2026-05-04,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9906885625223644,Activo
+2026-05-04,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9058247292534548,Activo
+2026-05-04,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.992696928747945,Activo
+2026-05-11,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9955523297613478,Activo
+2026-05-11,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9334265799336334,Activo
+2026-05-11,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9291229599543933,Activo
+2026-05-11,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8452115847813825,Activo
+2026-05-11,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.7250266500434736,Activo
+2026-05-11,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.7858508213776013,Activo
+2026-05-11,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.4413415738983282,Activo
+2026-05-11,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9088015589537787,Activo
+2026-05-11,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8436393245763919,Activo
+2026-05-11,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.8472398171710382,Activo
+2026-05-11,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.971999260764521,Activo
+2026-05-11,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9154905554325542,Activo
+2026-05-11,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9565715309677976,Activo
+2026-05-11,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8941963586268418,Activo
+2026-05-11,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.889532044256992,Activo
+2026-05-11,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9544716517353925,Activo
+2026-05-11,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.993176894421807,Activo
+2026-05-11,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9758832672223829,Activo
+2026-05-11,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7957274134542669,Activo
+2026-05-11,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9615394804550762,Activo
+2026-05-11,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9839759827725717,Activo
+2026-05-11,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-05-11,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-05-11,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9484518939689014,Activo
+2026-05-11,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9301185809583591,Activo
+2026-05-11,4965,ARTURO MORENO CABRERA,Centro,Pachuca,0.9943271194545011,Activo
+2026-05-11,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-05-11,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.8987747996045595,Activo
+2026-05-11,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9532355220012497,Activo
+2026-05-11,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9130311656828741,Activo
+2026-05-11,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8366820412870354,Activo
+2026-05-11,4835,Karla Sofia Tovar Nieto,Centro,Tequisquiapan,0.8181258901612244,Activo
+2026-05-11,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-05-11,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9542829578577773,Activo
+2026-05-11,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9568807385657508,Activo
+2026-05-11,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9914115431054437,Activo
+2026-05-11,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-05-11,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-05-11,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.8294198919332829,Activo
+2026-05-11,4574,Itzel Yazmin Beltran Molina,Centro,Zinacantepec,0.8932113695775398,Activo
+2026-05-11,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9271823280734462,Activo
+2026-05-11,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9675275354490541,Activo
+2026-05-11,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8766706148029515,Activo
+2026-05-11,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-05-11,4998,EDGAR  NÚÑEZ  NUTE,Centro,Zinacantepec,1.0,Activo
+2026-05-11,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.893067562049669,Activo
+2026-05-11,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.9215598617557508,Activo
+2026-05-11,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9278317498216158,Activo
+2026-05-11,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8828055907536255,Activo
+2026-05-11,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9267159169978622,Activo
+2026-05-11,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9039476420511088,Activo
+2026-05-11,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8368130484926007,Activo
+2026-05-11,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-05-11,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9947888401265984,Activo
+2026-05-11,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9117743801421576,Activo
+2026-05-11,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.9111556038022993,Activo
+2026-05-11,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-05-11,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-05-11,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-05-11,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8822755350928386,Activo
+2026-05-11,2722,gael alejandro medina ek,Península Sur,Motul,0.9671334491922505,Activo
+2026-05-11,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9772323186192559,Activo
+2026-05-11,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8910239312321107,Activo
+2026-05-11,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9121301656591015,Activo
+2026-05-11,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9550110594848853,Activo
+2026-05-11,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.7510354437636684,Activo
+2026-05-11,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9942443201617741,Activo
+2026-05-11,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9842649385655898,Activo
+2026-05-11,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9077358206623315,Activo
+2026-05-11,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.9150117008719413,Activo
+2026-05-11,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-05-11,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9883585216424297,Activo
+2026-05-11,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9749100406644774,Activo
+2026-05-11,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9681187214084335,Activo
+2026-05-11,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-05-11,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,1.0,Activo
+2026-05-11,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8298467444992378,Activo
+2026-05-11,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9753446662455931,Activo
+2026-05-11,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-05-11,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9821088207582985,Activo
+2026-05-11,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9919171000498912,Activo
+2026-05-11,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9957755655751653,Activo
+2026-05-11,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.886759844163655,Activo
+2026-05-11,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.992893857908217,Activo
+2026-05-18,2062,jorge alberto borjon santos,Bajio Occidente,Fresnillo,0.9930987359640241,Activo
+2026-05-18,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9378321074794842,Activo
+2026-05-18,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.933992250085072,Activo
+2026-05-18,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8066988362750865,Activo
+2026-05-18,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.6577682049425723,Activo
+2026-05-18,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8103687555859735,Activo
+2026-05-18,4778,Julio Efrain Rosales Villanueva,Bajio Occidente,Guadalajara,0.3653597813954058,Activo
+2026-05-18,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.89291139308328,Activo
+2026-05-18,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8469899159147287,Activo
+2026-05-18,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.8598235827667299,Activo
+2026-05-18,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9750425513667426,Activo
+2026-05-18,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9154905554325542,Activo
+2026-05-18,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9570947409087874,Activo
+2026-05-18,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9028484418227473,Activo
+2026-05-18,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.8996827191107727,Activo
+2026-05-18,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9468385833084823,Activo
+2026-05-18,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9922731352695734,Activo
+2026-05-18,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9779245884637212,Activo
+2026-05-18,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7435530628125845,Activo
+2026-05-18,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.923250151653281,Activo
+2026-05-18,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9839759827725717,Activo
+2026-05-18,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-05-18,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-05-18,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9502386378597453,Activo
+2026-05-18,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9303090863289137,Activo
+2026-05-18,4965,ARTURO MORENO CABRERA,Centro,Pachuca,0.9909633352628071,Activo
+2026-05-18,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-05-18,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9046482435681562,Activo
+2026-05-18,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9552606852316238,Activo
+2026-05-18,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9041147101607053,Activo
+2026-05-18,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.852257700548663,Activo
+2026-05-18,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,0.9999999999999999,Activo
+2026-05-18,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9342083773318792,Activo
+2026-05-18,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9478624190766572,Activo
+2026-05-18,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9985272661436212,Activo
+2026-05-18,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-05-18,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-05-18,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9295478554668347,Activo
+2026-05-18,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9202293749598834,Activo
+2026-05-18,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9675275354490541,Activo
+2026-05-18,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8742675106532778,Activo
+2026-05-18,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,1.0,Activo
+2026-05-18,4998,EDGAR  NÚÑEZ  NUTE,Centro,Zinacantepec,1.0,Activo
+2026-05-18,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8866172561043009,Activo
+2026-05-18,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.9179702301066734,Activo
+2026-05-18,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9294152367590144,Activo
+2026-05-18,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8847069119500713,Activo
+2026-05-18,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9246620153122825,Activo
+2026-05-18,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9071546100367291,Activo
+2026-05-18,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8699335889777847,Activo
+2026-05-18,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-05-18,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9939546355425612,Activo
+2026-05-18,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9559644588795235,Activo
+2026-05-18,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8776703773491888,Activo
+2026-05-18,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-05-18,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-05-18,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-05-18,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8447144420945703,Activo
+2026-05-18,2722,gael alejandro medina ek,Península Sur,Motul,0.9659987568008336,Activo
+2026-05-18,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9695114707107728,Activo
+2026-05-18,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8616950117291642,Activo
+2026-05-18,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9153400264472584,Activo
+2026-05-18,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9548539201544687,Activo
+2026-05-18,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.7769373792610991,Activo
+2026-05-18,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.97953987891687,Activo
+2026-05-18,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9671390536268739,Activo
+2026-05-18,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9079163026542428,Activo
+2026-05-18,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.909093921445037,Activo
+2026-05-18,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-05-18,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.987259018570418,Activo
+2026-05-18,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9329688744336521,Activo
+2026-05-18,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9012846898168176,Activo
+2026-05-18,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,1.0,Activo
+2026-05-18,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.987829597267698,Activo
+2026-05-18,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8538634491784378,Activo
+2026-05-18,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9750994236500102,Activo
+2026-05-18,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,0.9999999999999998,Activo
+2026-05-18,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9750680421628174,Activo
+2026-05-18,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9919026678509335,Activo
+2026-05-18,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9949090287661764,Activo
+2026-05-18,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8935020684641207,Activo
+2026-05-18,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9770775017909662,Activo
+2026-05-25,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9364147544122123,Activo
+2026-05-25,3829,Juan Antonio  Serrano  SANCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-05-25,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9389113907966196,Activo
+2026-05-25,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8162443801993665,Activo
+2026-05-25,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.6203822285231545,Activo
+2026-05-25,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.7519731272509355,Activo
+2026-05-25,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.8937877413222315,Activo
+2026-05-25,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.8413220367250672,Activo
+2026-05-25,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.8596824209345664,Activo
+2026-05-25,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-05-25,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9746264071577896,Activo
+2026-05-25,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9225616933282135,Activo
+2026-05-25,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9682551403496786,Activo
+2026-05-25,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.902981810879478,Activo
+2026-05-25,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9051112525276491,Activo
+2026-05-25,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9462678048877348,Activo
+2026-05-25,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9435031541830531,Activo
+2026-05-25,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9799975611809794,Activo
+2026-05-25,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7491790421787142,Activo
+2026-05-25,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.909455209314857,Activo
+2026-05-25,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9913018946057892,Activo
+2026-05-25,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-05-25,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-05-25,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9511788620420805,Activo
+2026-05-25,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.941082945826025,Activo
+2026-05-25,4965,ARTURO MORENO CABRERA,Centro,Pachuca,0.9404083908209553,Activo
+2026-05-25,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-05-25,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9107002429139264,Activo
+2026-05-25,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.943567859363636,Activo
+2026-05-25,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.8593480995991144,Activo
+2026-05-25,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8745531313166292,Activo
+2026-05-25,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-05-25,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.906294516644817,Activo
+2026-05-25,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9460800398834223,Activo
+2026-05-25,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9986447764398199,Activo
+2026-05-25,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-05-25,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-05-25,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9519337654340374,Activo
+2026-05-25,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.8837826773447469,Activo
+2026-05-25,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9675275354490541,Activo
+2026-05-25,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8685850238571362,Activo
+2026-05-25,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9969068562191749,Activo
+2026-05-25,4998,EDGAR  NÚÑEZ  NUTE,Centro,Zinacantepec,1.0,Activo
+2026-05-25,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-05-25,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8974340577631619,Activo
+2026-05-25,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8850320890637626,Activo
+2026-05-25,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.9202196733367708,Activo
+2026-05-25,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8670944430879272,Activo
+2026-05-25,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9238127221318184,Activo
+2026-05-25,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9060797363355768,Activo
+2026-05-25,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8729639739557392,Activo
+2026-05-25,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-05-25,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-05-25,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9917326550012835,Activo
+2026-05-25,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9390589935657194,Activo
+2026-05-25,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8796438619447126,Activo
+2026-05-25,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-05-25,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-05-25,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-05-25,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8835332903863158,Activo
+2026-05-25,2722,gael alejandro medina ek,Península Sur,Motul,0.9720239486656662,Activo
+2026-05-25,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9749528390086408,Activo
+2026-05-25,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8644170013337005,Activo
+2026-05-25,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9158098569210994,Activo
+2026-05-25,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9227591042639719,Activo
+2026-05-25,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.7861815001686118,Activo
+2026-05-25,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.8896440798037379,Activo
+2026-05-25,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.967151200006828,Activo
+2026-05-25,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9006096854132992,Activo
+2026-05-25,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.8589059311875221,Activo
+2026-05-25,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,1.0,Activo
+2026-05-25,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9833051671347796,Activo
+2026-05-25,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9076357214290233,Activo
+2026-05-25,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9038578789601479,Activo
+2026-05-25,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.9994001329052993,Activo
+2026-05-25,4982,ComodinLUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9999999999999998,Activo
+2026-05-25,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8538634491784378,Activo
+2026-05-25,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9830900374048356,Activo
+2026-05-25,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-05-25,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.972721078622571,Activo
+2026-05-25,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9920622456759747,Activo
+2026-05-25,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9933415117270072,Activo
+2026-05-25,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8955704694199358,Activo
+2026-05-25,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9780357957277098,Activo
+2026-06-01,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9487887771409276,Activo
+2026-06-01,3829,Juan Antonio  Serrano  SANCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-01,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9579274981898088,Activo
+2026-06-01,4348,LESLIE VALERIA  CERVANTES  LOPEZ,Bajio Occidente,Fresnillo,0.8232871602292957,Activo
+2026-06-01,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.5909908029952393,Activo
+2026-06-01,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.7646949468763647,Activo
+2026-06-01,5010,JUAN ANTONIO  SERRANO  SÁNCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-01,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.8849599788383264,Activo
+2026-06-01,4846,Araceli Pineda Galicia,Bajio Occidente,Guadalajara,0.830056874956249,Activo
+2026-06-01,4859,BERENICE GUADALUPE  HUERTA  ALDANA,Bajio Occidente,Guadalajara,0.8438647385417778,Activo
+2026-06-01,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-01,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9734558981026444,Activo
+2026-06-01,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9225616933282135,Activo
+2026-06-01,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9657700061802093,Activo
+2026-06-01,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8064910687204931,Activo
+2026-06-01,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9010400146324409,Activo
+2026-06-01,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9553582232507861,Activo
+2026-06-01,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9467872422633583,Activo
+2026-06-01,4994,CHRISTIAN FERNANDO  RAMIREZ  ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-06-01,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9651716677730676,Activo
+2026-06-01,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7567092353261056,Activo
+2026-06-01,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9120021863303773,Activo
+2026-06-01,4939,KARINA  CABELLO  MORALES,Bajio Occidente,Morelia,0.9799905895230216,Activo
+2026-06-01,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-06-01,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,1.0,Activo
+2026-06-01,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9186358751279682,Activo
+2026-06-01,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9407643586677124,Activo
+2026-06-01,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,1.0,Activo
+2026-06-01,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9203072049098122,Activo
+2026-06-01,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9469414015849128,Activo
+2026-06-01,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9293836567929037,Activo
+2026-06-01,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8750358113977352,Activo
+2026-06-01,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-06-01,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9107189449609612,Activo
+2026-06-01,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9488043740051176,Activo
+2026-06-01,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9955493150400537,Activo
+2026-06-01,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-06-01,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-06-01,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9503295597356823,Activo
+2026-06-01,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9166712749785739,Activo
+2026-06-01,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9675275354490541,Activo
+2026-06-01,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8439260123040256,Activo
+2026-06-01,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9841337830571886,Activo
+2026-06-01,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-06-01,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8917039864929125,Activo
+2026-06-01,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8718928440838382,Activo
+2026-06-01,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8999129952931718,Activo
+2026-06-01,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8387618713547063,Activo
+2026-06-01,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9061706764363272,Activo
+2026-06-01,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9006656187976726,Activo
+2026-06-01,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8703958433080071,Activo
+2026-06-01,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-06-01,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-06-01,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9785752228702166,Activo
+2026-06-01,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.941406305125643,Activo
+2026-06-01,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8811568074840402,Activo
+2026-06-01,4974,Comodin LIDIA ISABEL  DZIB  RAMIREZ,Península Sur,Cozumel,1.0,Activo
+2026-06-01,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-06-01,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-06-01,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8807193938289606,Activo
+2026-06-01,2722,gael alejandro medina ek,Península Sur,Motul,0.9719323491451916,Activo
+2026-06-01,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9624039401804138,Activo
+2026-06-01,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8774051859225839,Activo
+2026-06-01,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.962330239143198,Activo
+2026-06-01,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9086612130012642,Activo
+2026-06-01,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.775118658579598,Activo
+2026-06-01,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.8645360960205389,Activo
+2026-06-01,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9567617681073364,Activo
+2026-06-01,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9085865145017599,Activo
+2026-06-01,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.8512827379263573,Activo
+2026-06-01,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.9929167029014867,Activo
+2026-06-01,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9805972290631927,Activo
+2026-06-01,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9096920855817338,Activo
+2026-06-01,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.9079949668875473,Activo
+2026-06-01,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.9974083278482653,Activo
+2026-06-01,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9999999999999998,Activo
+2026-06-01,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8538634491784378,Activo
+2026-06-01,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9840533560309114,Activo
+2026-06-01,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-01,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9390242323361495,Activo
+2026-06-01,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9907167862199611,Activo
+2026-06-01,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9811580202817465,Activo
+2026-06-01,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8997408819034229,Activo
+2026-06-01,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9669195499135302,Activo
+2026-06-08,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9583177789274104,Activo
+2026-06-08,3829,Juan Antonio  Serrano  SANCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-08,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9669649841575815,Activo
+2026-06-08,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.5877812931465002,Activo
+2026-06-08,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.7650929164536904,Activo
+2026-06-08,5010,JUAN ANTONIO  SERRANO  SÁNCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-08,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9357662611766849,Activo
+2026-06-08,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-08,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9706019752636572,Activo
+2026-06-08,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9128928286664142,Activo
+2026-06-08,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9657700061802093,Activo
+2026-06-08,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.7850288831927399,Activo
+2026-06-08,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9018930629093767,Activo
+2026-06-08,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9591048586879181,Activo
+2026-06-08,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9398136536487244,Activo
+2026-06-08,4994,CHRISTIAN FERNANDO  RAMIREZ  ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-06-08,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9597227855028626,Activo
+2026-06-08,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7425622740864454,Activo
+2026-06-08,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9087378962974799,Activo
+2026-06-08,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-06-08,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,0.9653950732990677,Activo
+2026-06-08,5017,Comodin Morelia Gerente,Bajio Occidente,Morelia,1.0,Activo
+2026-06-08,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9215266700298741,Activo
+2026-06-08,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9359968056515106,Activo
+2026-06-08,4970,MARISOL  VIZUET  PEREZ,Centro,Pachuca,0.9965554891248481,Activo
+2026-06-08,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,1.0,Activo
+2026-06-08,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9068457260308581,Activo
+2026-06-08,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9500813203248565,Activo
+2026-06-08,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9552244031575301,Activo
+2026-06-08,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8884731730148768,Activo
+2026-06-08,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-06-08,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.8412859319402416,Activo
+2026-06-08,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9427645763261705,Activo
+2026-06-08,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9952260422916839,Activo
+2026-06-08,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9999999999999998,Activo
+2026-06-08,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,1.0,Activo
+2026-06-08,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9764076761690068,Activo
+2026-06-08,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9221789232408162,Activo
+2026-06-08,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9675275354490541,Activo
+2026-06-08,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.7525276438082884,Activo
+2026-06-08,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9741522814398386,Activo
+2026-06-08,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-06-08,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8884920876971781,Activo
+2026-06-08,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8440192465453122,Activo
+2026-06-08,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8771963781409957,Activo
+2026-06-08,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.823360246114873,Activo
+2026-06-08,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9141979658043264,Activo
+2026-06-08,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.8788515007751548,Activo
+2026-06-08,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8376989489438734,Activo
+2026-06-08,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,1.0,Activo
+2026-06-08,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-06-08,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9620270409961588,Activo
+2026-06-08,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9224438942404531,Activo
+2026-06-08,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8864146303135255,Activo
+2026-06-08,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-06-08,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,1.0,Activo
+2026-06-08,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8565115496239726,Activo
+2026-06-08,2722,gael alejandro medina ek,Península Sur,Motul,0.973637619844248,Activo
+2026-06-08,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9632408705599779,Activo
+2026-06-08,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8701232327238513,Activo
+2026-06-08,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9588261016312749,Activo
+2026-06-08,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9110551744692591,Activo
+2026-06-08,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.7520731981852015,Activo
+2026-06-08,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9082383670564348,Activo
+2026-06-08,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9563729694671926,Activo
+2026-06-08,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9333930743025509,Activo
+2026-06-08,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.8281093217852887,Activo
+2026-06-08,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.9871095373831699,Activo
+2026-06-08,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9402133841894159,Activo
+2026-06-08,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9116509482331968,Activo
+2026-06-08,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.8992800322495912,Activo
+2026-06-08,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.9316392448413849,Activo
+2026-06-08,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9999999999999998,Activo
+2026-06-08,5006,CANDY GRISEL  DIAZ  ARAGÓN,Península Sur,Valladolid,1.0,Activo
+2026-06-08,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8538634491784378,Activo
+2026-06-08,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.984481586392519,Activo
+2026-06-08,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-08,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9401397079463281,Activo
+2026-06-08,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9899925713388038,Activo
+2026-06-08,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9719834356475572,Activo
+2026-06-08,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9376463648221164,Activo
+2026-06-08,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9669145956278287,Activo
+2026-06-15,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9329371182223066,Activo
+2026-06-15,3829,Juan Antonio  Serrano  SANCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-15,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9420395392102026,Activo
+2026-06-15,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.497755535699505,Activo
+2026-06-15,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8383614003517775,Activo
+2026-06-15,5010,JUAN ANTONIO  SERRANO  SÁNCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-15,4514,Alfredo   Bautista Aguado,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-15,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9312475225543633,Activo
+2026-06-15,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-15,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9674365493696251,Activo
+2026-06-15,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.922728308680437,Activo
+2026-06-15,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9756519928194839,Activo
+2026-06-15,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.7429599921310683,Activo
+2026-06-15,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9014585495273847,Activo
+2026-06-15,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9659196134158909,Activo
+2026-06-15,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9110636905524021,Activo
+2026-06-15,4994,CHRISTIAN FERNANDO RAMIREZ ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-06-15,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9487457759491162,Activo
+2026-06-15,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7216088921388705,Activo
+2026-06-15,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9047942958397275,Activo
+2026-06-15,4937,usuario Comodin morelia,Bajio Occidente,Morelia,1.0,Activo
+2026-06-15,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-06-15,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,0.480753232299185,Activo
+2026-06-15,5017,Comodin Morelia Gerente,Bajio Occidente,Morelia,1.0,Activo
+2026-06-15,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9150502477045929,Activo
+2026-06-15,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.976516178786515,Activo
+2026-06-15,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,1.0,Activo
+2026-06-15,5018,BRENDA NALLELY  SANCHEZ  TELLEZ,Centro,Pachuca,1.0,Activo
+2026-06-15,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9126433990014116,Activo
+2026-06-15,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9406116485384872,Activo
+2026-06-15,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.8848160138496667,Activo
+2026-06-15,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.8886893616443006,Activo
+2026-06-15,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-06-15,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.826330639200402,Activo
+2026-06-15,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9238726167453523,Activo
+2026-06-15,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9935629357402267,Activo
+2026-06-15,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,1.0,Activo
+2026-06-15,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.9920337124424121,Activo
+2026-06-15,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9584857929804806,Activo
+2026-06-15,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9257667351830552,Activo
+2026-06-15,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9688947879582648,Activo
+2026-06-15,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8042096070309231,Activo
+2026-06-15,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9530636786520695,Activo
+2026-06-15,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-06-15,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8873087293129714,Activo
+2026-06-15,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8183250512194595,Activo
+2026-06-15,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8519157702490412,Activo
+2026-06-15,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8226950818238459,Activo
+2026-06-15,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.908374054088698,Activo
+2026-06-15,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9093974925738886,Activo
+2026-06-15,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8595359567572868,Activo
+2026-06-15,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,0.988816611954918,Activo
+2026-06-15,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-06-15,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9643353998962859,Activo
+2026-06-15,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9218296344417354,Activo
+2026-06-15,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8289735505517731,Activo
+2026-06-15,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-06-15,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,0.9971006771816739,Activo
+2026-06-15,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8594841685350548,Activo
+2026-06-15,2722,gael alejandro medina ek,Península Sur,Motul,0.970980144850306,Activo
+2026-06-15,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9262036289836602,Activo
+2026-06-15,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8826123369611961,Activo
+2026-06-15,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9292522584611826,Activo
+2026-06-15,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9042166508976904,Activo
+2026-06-15,4938,HUSSEIN ESSAI  LEAL  MARTIN,Península Sur,Mérida,0.6796309889522222,Activo
+2026-06-15,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.8690759196556893,Activo
+2026-06-15,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9365729748908044,Activo
+2026-06-15,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.9008843837427922,Activo
+2026-06-15,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.8283296091489624,Activo
+2026-06-15,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.9378953213521382,Activo
+2026-06-15,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9185989120512158,Activo
+2026-06-15,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9127889219319749,Activo
+2026-06-15,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.8640119537833295,Activo
+2026-06-15,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.9347372037716696,Activo
+2026-06-15,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9999999999999998,Activo
+2026-06-15,5006,CANDY GRISEL  DIAZ  ARAGÓN,Península Sur,Valladolid,1.0,Activo
+2026-06-15,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8215698376233646,Activo
+2026-06-15,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9798570566763749,Activo
+2026-06-15,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-15,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9341401796322559,Activo
+2026-06-15,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9859873676494688,Activo
+2026-06-15,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9479603548358821,Activo
+2026-06-15,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9396329445660788,Activo
+2026-06-15,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9666330163633334,Activo
+2026-06-22,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.8905821341902846,Activo
+2026-06-22,3829,Juan Antonio  Serrano  SANCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-22,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9681833820028755,Activo
+2026-06-22,4400,DULCE SELENE  GALVEZ  GARCIA,Bajio Occidente,Fresnillo,0.4660254420172695,Activo
+2026-06-22,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.850526755845614,Activo
+2026-06-22,5010,JUAN ANTONIO  SERRANO  SÁNCHEZ,Bajio Occidente,Fresnillo,1.0,Activo
+2026-06-22,4514,Alfredo   Bautista Aguado,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-22,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.920441802152036,Activo
+2026-06-22,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-22,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9730522439419135,Activo
+2026-06-22,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9227301304398733,Activo
+2026-06-22,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9742942947845742,Activo
+2026-06-22,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8240750355426586,Activo
+2026-06-22,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.900470172866134,Activo
+2026-06-22,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9383695215323714,Activo
+2026-06-22,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.8509711122216841,Activo
+2026-06-22,4994,CHRISTIAN FERNANDO RAMIREZ ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-06-22,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9507753484044089,Activo
+2026-06-22,4469,Berenice Martinez Reyes,Bajio Occidente,Morelia,0.7131210015227238,Activo
+2026-06-22,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9075058762281571,Activo
+2026-06-22,4937,usuario Comodin morelia,Bajio Occidente,Morelia,1.0,Activo
+2026-06-22,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-06-22,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,0.480753232299185,Activo
+2026-06-22,5017,Comodin Morelia Gerente,Bajio Occidente,Morelia,1.0,Activo
+2026-06-22,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.9269578765442766,Activo
+2026-06-22,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.975409615555871,Activo
+2026-06-22,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,1.0,Activo
+2026-06-22,5018,BRENDA NALLELY  SANCHEZ  TELLEZ,Centro,Pachuca,1.0,Activo
+2026-06-22,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9190802923206725,Activo
+2026-06-22,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9489552224307006,Activo
+2026-06-22,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.8792766420155244,Activo
+2026-06-22,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9031795386938836,Activo
+2026-06-22,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-06-22,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.8678844356142251,Activo
+2026-06-22,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9294095146732769,Activo
+2026-06-22,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9887090465229439,Activo
+2026-06-22,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9971023010622838,Activo
+2026-06-22,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.9935423878873094,Activo
+2026-06-22,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9716889285575456,Activo
+2026-06-22,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9047587973914576,Activo
+2026-06-22,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9686423440730542,Activo
+2026-06-22,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8097929637009534,Activo
+2026-06-22,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.954528438876736,Activo
+2026-06-22,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-06-22,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8836582669305011,Activo
+2026-06-22,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8368412400842548,Activo
+2026-06-22,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8344431602821163,Activo
+2026-06-22,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.7799220407394117,Activo
+2026-06-22,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9118618205268861,Activo
+2026-06-22,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.905133755889856,Activo
+2026-06-22,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8671312340777039,Activo
+2026-06-22,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,0.9827476336416439,Activo
+2026-06-22,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,0.9999999999999998,Activo
+2026-06-22,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9643712696454932,Activo
+2026-06-22,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9299115713719437,Activo
+2026-06-22,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8487109567452851,Activo
+2026-06-22,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-06-22,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,0.9940353821296272,Activo
+2026-06-22,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.8823741124882483,Activo
+2026-06-22,2722,gael alejandro medina ek,Península Sur,Motul,0.9576866409891472,Activo
+2026-06-22,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9474638094853515,Activo
+2026-06-22,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.9088815114943072,Activo
+2026-06-22,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.933126637971027,Activo
+2026-06-22,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9181155648460166,Activo
+2026-06-22,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9296776875027617,Activo
+2026-06-22,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9384462534472486,Activo
+2026-06-22,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.8738767087067446,Activo
+2026-06-22,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.7176238724532071,Activo
+2026-06-22,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.8666609325995177,Activo
+2026-06-22,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.9231681315645976,Activo
+2026-06-22,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.9151772569710075,Activo
+2026-06-22,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.8035415316700225,Activo
+2026-06-22,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.8885672014701714,Activo
+2026-06-22,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9750167956223388,Activo
+2026-06-22,5006,CANDY GRISEL  DIAZ  ARAGÓN,Península Sur,Valladolid,1.0,Activo
+2026-06-22,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8078898328069363,Activo
+2026-06-22,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9791215098822448,Activo
+2026-06-22,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-22,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9359865856570475,Activo
+2026-06-22,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9645761312649427,Activo
+2026-06-22,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9469931199295397,Activo
+2026-06-22,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9538340483919214,Activo
+2026-06-22,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9752564850087317,Activo
+2026-06-22,5016,VICTOR MANUEL  PÉREZ  HERNÁNDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-29,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9476964259758146,Activo
+2026-06-29,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9732740954114757,Activo
+2026-06-29,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8821343940871412,Activo
+2026-06-29,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9328028921336906,Activo
+2026-06-29,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-06-29,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9842666426594825,Activo
+2026-06-29,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9227319521993097,Activo
+2026-06-29,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9760595378628143,Activo
+2026-06-29,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.8428480338024941,Activo
+2026-06-29,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9479005825039644,Activo
+2026-06-29,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9407152401857244,Activo
+2026-06-29,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.8498001551980856,Activo
+2026-06-29,4994,CHRISTIAN FERNANDO RAMIREZ ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-06-29,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9518934211280793,Activo
+2026-06-29,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9162536190260094,Activo
+2026-06-29,4937,usuario Comodin morelia,Bajio Occidente,Morelia,1.0,Activo
+2026-06-29,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-06-29,4988,FRANCISCO JAVIER  HERRERA  CHAVEZ,Bajio Occidente,Morelia,0.480753232299185,Activo
+2026-06-29,5017,Comodin Morelia Gerente,Bajio Occidente,Morelia,1.0,Activo
+2026-06-29,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.8694857560692926,Activo
+2026-06-29,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9735173338370972,Activo
+2026-06-29,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,1.0,Activo
+2026-06-29,5018,BRENDA NALLELY  SANCHEZ  TELLEZ,Centro,Pachuca,1.0,Activo
+2026-06-29,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9228271019509684,Activo
+2026-06-29,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9463641581876396,Activo
+2026-06-29,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9504546039284564,Activo
+2026-06-29,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9048119983787193,Activo
+2026-06-29,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-06-29,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.8777627769447313,Activo
+2026-06-29,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9096090290376121,Activo
+2026-06-29,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9901987415556565,Activo
+2026-06-29,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9901019293693535,Activo
+2026-06-29,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.9247184060111513,Activo
+2026-06-29,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9639448125361726,Activo
+2026-06-29,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.919141010157449,Activo
+2026-06-29,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9644804230677957,Activo
+2026-06-29,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8115380185334805,Activo
+2026-06-29,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9504927095942011,Activo
+2026-06-29,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-06-29,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8858107008893314,Activo
+2026-06-29,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8143724119769556,Activo
+2026-06-29,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.832728461771904,Activo
+2026-06-29,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.7858435237586351,Activo
+2026-06-29,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9056541797795548,Activo
+2026-06-29,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9044937142720885,Activo
+2026-06-29,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8648358823329626,Activo
+2026-06-29,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,0.9766710913099574,Activo
+2026-06-29,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-06-29,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9533833193460102,Activo
+2026-06-29,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.8857076707734537,Activo
+2026-06-29,4876,MARIELY GUADALUPE  CANCHE  BARCELO,Península Sur,Cozumel,0.8230548810575797,Activo
+2026-06-29,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-06-29,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,0.9930430435966964,Activo
+2026-06-29,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.94653363950183,Activo
+2026-06-29,2722,gael alejandro medina ek,Península Sur,Motul,0.9543602097298146,Activo
+2026-06-29,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.954856035830066,Activo
+2026-06-29,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8905524642180148,Activo
+2026-06-29,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9328743219622353,Activo
+2026-06-29,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9228809739414876,Activo
+2026-06-29,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9049050881637547,Activo
+2026-06-29,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.93714792220871,Activo
+2026-06-29,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.8548310622049315,Activo
+2026-06-29,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.7264761677879,Activo
+2026-06-29,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.8341142507798857,Activo
+2026-06-29,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.880449766377755,Activo
+2026-06-29,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.8780946103953297,Activo
+2026-06-29,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.7873576252719678,Activo
+2026-06-29,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.8885672014701714,Activo
+2026-06-29,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.8840108878371775,Activo
+2026-06-29,5006,CANDY GRISEL  DIAZ  ARAGÓN,Península Sur,Valladolid,1.0,Activo
+2026-06-29,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8078898328069363,Activo
+2026-06-29,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9758666687685736,Activo
+2026-06-29,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-06-29,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.934795290216907,Activo
+2026-06-29,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9703534283764658,Activo
+2026-06-29,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9305823930019932,Activo
+2026-06-29,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.9507461498154555,Activo
+2026-06-29,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.9612997897628432,Activo
+2026-06-29,5016,VICTOR MANUEL  PÉREZ  HERNÁNDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-07-06,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.8078898328069363,Activo
+2026-07-06,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.9095764760057856,Activo
+2026-07-06,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.956021417063678,Activo
+2026-07-06,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.8563553540565904,Activo
+2026-07-06,2722,gael alejandro medina ek,Península Sur,Motul,0.9429742370064506,Activo
+2026-07-06,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.943005869736658,Activo
+2026-07-06,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9477034504661432,Activo
+2026-07-06,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9644288694875386,Activo
+2026-07-06,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.9042236264173243,Activo
+2026-07-06,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9512712322305692,Activo
+2026-07-06,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.902827404597652,Activo
+2026-07-06,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8339702430773198,Activo
+2026-07-06,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9279755676629874,Activo
+2026-07-06,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9661397699713586,Activo
+2026-07-06,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.8558898413997078,Activo
+2026-07-06,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9147355063256775,Activo
+2026-07-06,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9593127893996752,Activo
+2026-07-06,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8205080510076527,Activo
+2026-07-06,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9292002861800162,Activo
+2026-07-06,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8178433845961572,Activo
+2026-07-06,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9379331872465344,Activo
+2026-07-06,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9804837529993526,Activo
+2026-07-06,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9234488307460897,Activo
+2026-07-06,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.912412115215467,Activo
+2026-07-06,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9195709859931162,Activo
+2026-07-06,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9314584219813077,Activo
+2026-07-06,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.944055863103149,Activo
+2026-07-06,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9729045654070275,Activo
+2026-07-06,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.9114655285907989,Activo
+2026-07-06,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9844683514264571,Activo
+2026-07-06,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.7324957178707144,Activo
+2026-07-06,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.94304507942685,Activo
+2026-07-06,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.8699668497817913,Activo
+2026-07-06,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.8895868610155055,Activo
+2026-07-06,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8516636019297923,Activo
+2026-07-06,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9329643531813752,Activo
+2026-07-06,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.8746699112587297,Activo
+2026-07-06,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8222875806719122,Activo
+2026-07-06,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9739968874624868,Activo
+2026-07-06,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8811697037186413,Activo
+2026-07-06,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.8954889609894111,Activo
+2026-07-06,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.9671708325647436,Activo
+2026-07-06,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.951499479868374,Activo
+2026-07-06,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9319377510932291,Activo
+2026-07-06,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9554959450248252,Activo
+2026-07-06,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.880383938339046,Activo
+2026-07-06,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.915316040032001,Activo
+2026-07-06,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.7876859001361909,Activo
+2026-07-06,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.9050897528606777,Activo
+2026-07-06,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9904045907580352,Activo
+2026-07-06,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.894664440833969,Activo
+2026-07-06,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.971260251379699,Activo
+2026-07-06,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9428182953367986,Activo
+2026-07-06,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.8477589410403447,Activo
+2026-07-06,4824,Carlos Alberto Hernandez Cervantes,Centro,Zinacantepec,0.8120185994699103,Activo
+2026-07-06,5018,BRENDA NALLELY  SANCHEZ  TELLEZ,Centro,Pachuca,1.0,Activo
+2026-07-06,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-07-06,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,1.0,Activo
+2026-07-06,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9440940050520507,Activo
+2026-07-06,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-07-06,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.9695311665102556,Activo
+2026-07-06,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-07-06,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-07-06,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.8443332169442912,Activo
+2026-07-06,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,0.9974562185872262,Activo
+2026-07-06,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.8981175934434473,Activo
+2026-07-06,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.8681871131183454,Activo
+2026-07-06,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-07-06,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.9304119811872438,Activo
+2026-07-06,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-07-06,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,0.9156223083663058,Activo
+2026-07-06,5017,Comodin Morelia Gerente,Bajio Occidente,Morelia,1.0,Activo
+2026-07-06,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,1.0,Activo
+2026-07-06,4994,CHRISTIAN FERNANDO RAMIREZ ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-07-06,4937,usuario Comodin morelia,Bajio Occidente,Morelia,1.0,Activo
+2026-07-06,5016,VICTOR MANUEL  PÉREZ  HERNÁNDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-07-06,5022,CEDRIC JESUS  MEJÍA  GREGORIO,Centro,Pachuca,1.0,Activo
+2026-07-06,5025,SAUL  BRITO  TERRON,Centro,Valle de Toluca,1.0,Activo
+2026-07-13,4331,Celmer Ernesto  Chuc  Tzab,Península Sur,Motul,0.8934042769604463,Activo
+2026-07-13,4858,MA DE JESUS  MARTINEZ  ESPINOSA,Suc Digital,Salamanca,0.948541952601134,Activo
+2026-07-13,776,Irma Angelica Morales Resendiz,Bajio Occidente,Morelia,0.8605248442672152,Activo
+2026-07-13,4887,WILFRIDO EZEQUIEL  SOLIS  MEDINA,Península Sur,Motul,0.9282322050385027,Activo
+2026-07-13,2820,selene aguilar de la cruz,Centro,Tequisquiapan,0.9754728505936443,Activo
+2026-07-13,2026,J MERCED PRIETO ALVARADO,Suc Digital,Salamanca,0.9597175257662336,Activo
+2026-07-13,4411,MARITSA ROMERO SOLIS,Bajio Occidente,Morelia,0.9571076210334808,Activo
+2026-07-13,4834,CLAUDIA  VELAZQUEZ  CHAPARRO,Península Sur,Cancún,0.9241785674772356,Activo
+2026-07-13,4817,MAURICIO  SORIANO  AYALA,Península Sur,Cancún,0.8347103809542207,Activo
+2026-07-13,4195,ANTÓNIO BENJAMÍN  EUAN  LOPEZ,Península Sur,Cozumel,0.9606535031099038,Activo
+2026-07-13,4573,CLARIBEL  GARCIA  RODRÍGUEZ,Península Sur,Cancún,0.8327087738481096,Activo
+2026-07-13,4521,EZEQUIEL  ALTAMIRANO  CANCHE,Península Sur,Playa del Carmen,0.8613501064731384,Activo
+2026-07-13,4843,JUAN JOSE  MORALES  RODRIGUEZ,Suc Digital,Salamanca,0.8181550438328254,Activo
+2026-07-13,4877,VICTOR ALFONSO  CORDOVA PINEDA,Centro,San Juan del Río,0.9535859562955118,Activo
+2026-07-13,4491,Ivone Mayela Olvera Vargas,Bajio Occidente,Irapuato,0.9776120216018644,Activo
+2026-07-13,4643,Rita Magdalena López Zavala,Suc Digital,Salamanca,0.9243981915134091,Activo
+2026-07-13,4747,maykol omar Ortiz asesor,Centro,Valle de Toluca,0.9236327148191233,Activo
+2026-07-13,4816,Gerardo Baeza  Castillo,Bajio Occidente,Guadalajara,0.9702365666285513,Activo
+2026-07-13,4880,MARCELA  FONSECA  DÍAZ,Bajio Occidente,Irapuato,0.9409604495872095,Activo
+2026-07-13,3318,Alexis Edgardo  Cauich  Chulim,Península Sur,Motul,0.9730049193806434,Activo
+2026-07-13,4813,Eric Alvarez Ovando,Centro,Zinacantepec,0.8497822379105451,Activo
+2026-07-13,4450,EDITH  PEREDA  CHAVEZ,Centro,San Juan del Río,0.9225277314769904,Activo
+2026-07-13,4890,LUIS MANUEL  HAU  HERRERA,Península Sur,Cancún,0.9095140808274808,Activo
+2026-07-13,1257,Erika Patricia Alfaro Lopez,Bajio Occidente,Irapuato,0.9831956092381833,Activo
+2026-07-13,4932,ALMA ROCIO  ESPINOZA  MILLAN,Península Sur,Playa del Carmen,0.7324957178707144,Activo
+2026-07-13,2585,GABRIELA SALETTE  tamayo  PECH,Península Sur,Motul,0.9489424740621147,Activo
+2026-07-13,1175,laura patricia Nah sansores,Península Sur,Valladolid,0.8497296250487174,Activo
+2026-07-13,4891,PATRICIA DEL ROSARIO  VALDEZ  HERNÁNDEZ,Península Sur,Cancún,0.8439230475309172,Activo
+2026-07-13,2722,gael alejandro medina ek,Península Sur,Motul,0.946007192469347,Activo
+2026-07-13,4879,MARILYN  RODRIGUEZ  PUGA,Península Sur,Mérida,0.9080457683459036,Activo
+2026-07-13,4501,Elvia del Carmen Perez Hernandez,Suc Digital,Salamanca,0.9261723462209609,Activo
+2026-07-13,4232,JOSE CRUZ   GORDILLO HERNANDEZ,Península Sur,Cancún,0.8285959661029235,Activo
+2026-07-13,4539,Priscilla Vega Cincere,Bajio Occidente,Morelia,0.9039591183937088,Activo
+2026-07-13,4722,Nestor Zuñiga  García,Repliegue,Tepeji del Rio,0.7500040735852438,Activo
+2026-07-13,4641,Jorge Faustino Vera Morales,Centro,Pachuca,0.9735867696600994,Activo
+2026-07-13,4799,Raul Alejandro Quintero Corona,Bajio Occidente,Fresnillo,0.8919117887685282,Activo
+2026-07-13,4642,Alejandro Padilla Olivares,Suc Digital,Salamanca,0.967545809935539,Activo
+2026-07-13,4795,Ana Karina Lizeth Prado Rodriguez,Bajio Occidente,Irapuato,0.9262815544526272,Activo
+2026-07-13,4931,GUADALUPE VIANEY  LOPEZ  SERRANO,Centro,Zinacantepec,0.9312550436021003,Activo
+2026-07-13,4267,Elias Serrano  Asesor,Centro,Tequisquiapan,0.9919634593969082,Activo
+2026-07-13,2608,Patricia Briseño Perales,Bajio Occidente,Fresnillo,0.9565476596788955,Activo
+2026-07-13,804,OSCAR OCTAVIO GUADARRAMA MEJIA,Centro,Zinacantepec,0.8817579117070542,Activo
+2026-07-13,3354,Jonathan Marcelino Grana Moreno,Bajio Occidente,Irapuato,0.9600737013645003,Activo
+2026-07-13,4517,Ana Isabel Perez Villafaña,Bajio Occidente,Irapuato,0.9204189680951653,Activo
+2026-07-13,4917,FANILU  UITZIL  ROSADO,Península Sur,Valladolid,0.7658591151059666,Activo
+2026-07-13,4950,MARINE DE JESÚS CHUC IÑIGUEZ,Península Sur,Mérida,0.8823307074986122,Activo
+2026-07-13,4952,JONATHAN JUAN  GARCÍA  MARTINEZ,Centro,Valle de Toluca,0.9901338728199149,Activo
+2026-07-13,4805,ITRAN GAMALIEL  RAMIREZ  TORRES,Península Sur,Cozumel,0.9108561343260225,Activo
+2026-07-13,4356,ANA LAURA  MORRONGO  CUARENTA,Centro,Zinacantepec,0.9115199553452017,Activo
+2026-07-13,4819,Irene Lizbeth Romero Homobono,Centro,Zinacantepec,0.9716935508827551,Activo
+2026-07-13,4717,Jose Guerrero Flores,Centro,Valle de Toluca,0.906500227334917,Activo
+2026-07-13,3375,José Ernesto  Nah Valle,Península Sur,Playa del Carmen,0.9271365740775308,Activo
+2026-07-13,4947,LILIANA BEATRÍZ  OSORIO  PERERA,Península Sur,Playa del Carmen,0.8148364624245793,Activo
+2026-07-13,4418,JOSÉ LEONARDO  CANCHE  CHUC,Península Sur,Valladolid,0.8871643482944183,Activo
+2026-07-13,4996,ALEXIS  RESENDIZ  SEGUNDO,Centro,Tequisquiapan,1.0,Activo
+2026-07-13,2132,CRISTINA ISABEL CONTRERAS HERNANDEZ,Suc Digital,Salamanca,1.0,Activo
+2026-07-13,4977,CRISTINA  SASTRE  CAMPOS,Península Sur,Cozumel,1.0,Activo
+2026-07-13,4951,MARIA DE JESUS  CARRANZA  SALAZAR,Bajio Occidente,Irapuato,0.9217498497662409,Activo
+2026-07-13,4978,MIGUEL ANGEL  CHAN  ITZA,Península Sur,Cozumel,0.9961638800415662,Activo
+2026-07-13,4969,FELIPA DEL ROSARIO  POOT  ITZA,Península Sur,Valladolid,0.9004129468735119,Activo
+2026-07-13,5026,SONIA MINERVA  LEYVA  TORRES,Bajio Occidente,Morelia,1.0,Activo
+2026-07-13,5025,SAUL  BRITO  TERRON,Centro,Valle de Toluca,1.0,Activo
+2026-07-13,4971,FRANCISCO JAVIER  ARIZA  GARCÍA,Centro,Valle de Toluca,0.9060130688726519,Activo
+2026-07-13,4286,Santiago  Salas  Garcia,Bajio Occidente,Fresnillo,0.968330441696027,Activo
+2026-07-13,5001,ANDREA GUADALUPE  OCHOA  RAMIREZ,Bajio Occidente,Guadalajara,1.0,Activo
+2026-07-13,4982,ASESOR LUZ MARIA  PECH  BALAM,Península Sur,Valladolid,0.9259532315916483,Activo
+2026-07-13,5022,CEDRIC JESUS  MEJÍA  GREGORIO,Centro,Pachuca,1.0,Activo
+2026-07-13,5005,ERIC  ALVAREZ  OVANDO,Centro,Zinacantepec,1.0,Activo
+2026-07-13,4990,YASMIN FABIOLA  GOMEZ  RUIZ,Centro,Valle de Toluca,0.930615404148686,Activo
+2026-07-13,4976,JUAN PABLO  ARROYO  SOLIS,Bajio Occidente,Morelia,1.0,Activo
+2026-07-13,4992,JOSE ROBERTO  VILLEGAS  MORENO,Península Sur,Cancún,0.8251131814260274,Activo
+2026-07-13,5004,ANTONIO DE JESUS  HERNÁNDEZ  GUTIÉRREZ,Península Sur,Cancún,0.9949803690160419,Activo
+2026-07-13,5013,HUGO  GARCIA  JIMENEZ,Centro,Pachuca,0.9999999999999998,Activo
+2026-07-13,4994,CHRISTIAN FERNANDO RAMIREZ ALVAREZ,Bajio Occidente,Irapuato,1.0,Activo
+2026-07-13,5016,VICTOR MANUEL  PÉREZ  HERNÁNDEZ,Suc Digital,Salamanca,1.0,Activo

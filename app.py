@@ -113,22 +113,43 @@ def load_sheet(filepath):
 
 @st.cache_data(ttl=3600, persist="disk", show_spinner="Cargando datos...")
 def load_all():
-    all_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".xlsx") and not f.startswith("~$")]
+    csv_path = os.path.join(DATA_DIR, "cosechas_historico.csv")
 
+    # ── ruta rápida: leer CSV precompilado ────────────────────────────────────
+    if os.path.exists(csv_path):
+        df = pd.read_csv(
+            csv_path,
+            dtype={"clave": str, "nombre": str, "regional": str,
+                   "sucursal": str, "estatus": str},
+            parse_dates=["fecha"],
+        )
+        df["cosecha"] = pd.to_numeric(df["cosecha"], errors="coerce")
+        df["semana"]  = df["fecha"].apply(lambda ts: col_label(ts.date()))
+
+        # Filtrar solo asesores activos según el corte más reciente
+        base_date = df["fecha"].dt.date.max()
+        activos_claves = set(
+            df.loc[(df["fecha"].dt.date == base_date) &
+                   (df["estatus"].str.lower() == "activo"), "clave"]
+        )
+        df = df[df["clave"].isin(activos_claves)].copy()
+
+        semanas_ordenadas = [col_label(d) for d in sorted(df["fecha"].dt.date.unique())]
+        return df, semanas_ordenadas
+
+    # ── fallback: leer xlsx individualmente (si no existe el CSV) ─────────────
+    all_files = [f for f in os.listdir(DATA_DIR) if f.endswith(".xlsx") and not f.startswith("~$")]
     today_d = date.today()
     current_week_mon = today_d - timedelta(days=today_d.weekday())
 
-    weekly   = {}     # {week_monday: (file_date, filename, is_mc)} — un archivo por semana
-    daily_now = None  # archivo más reciente no-lunes de la semana actual
-
+    weekly   = {}
+    daily_now = None
     for f in all_files:
         d = parse_fecha(f)
         if d is None: continue
         is_mc     = "MC" in f.replace("Cosechas","").replace(".xlsx","")
         is_monday = (d.weekday() == 0)
         week_mon  = d - timedelta(days=d.weekday())
-
-        # Representante semanal: lunes > no-lunes > más reciente > no-MC
         if week_mon not in weekly:
             weekly[week_mon] = (d, f, is_mc)
         else:
@@ -140,8 +161,6 @@ def load_all():
                 elif d == cur[0] and cur[2] and not is_mc: replace = True
             if replace:
                 weekly[week_mon] = (d, f, is_mc)
-
-        # Columna "hoy": último no-lunes de la semana actual
         if week_mon == current_week_mon and not is_monday:
             if daily_now is None or d > daily_now[0]:
                 daily_now = (d, f, is_mc)
@@ -152,10 +171,9 @@ def load_all():
 
     ordered = sorted(dated.keys())
     all_data = {d: load_sheet(os.path.join(DATA_DIR, dated[d][0])) for d in ordered}
-
-    base_date = max(ordered)
-    base_data = all_data[base_date]
-    activos   = {k: v for k, v in base_data.items() if v["estatus"].lower() == "activo"}
+    base_date  = max(ordered)
+    base_data  = all_data[base_date]
+    activos    = {k: v for k, v in base_data.items() if v["estatus"].lower() == "activo"}
 
     rows = []
     for clave, info in activos.items():
